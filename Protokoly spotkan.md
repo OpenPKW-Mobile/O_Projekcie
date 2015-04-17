@@ -12,10 +12,10 @@ Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj. 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
 
-* 14.04.2015-1 [All] [Pending] Proszę o założenie swoich kont na (http:// www.github.com) i podanie mi założonych loginów np na Skype w naszej konferencji skajpowej o nazwie "OpenPKW Mobile"
+
 * 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować nowe kolejne zmiany i innowacje
 * 14.04.2015-3 [Rafał] [Pending] Napisac User Stories, które przekształcą sie w taski developerskie
-* 14.04.2015-4 [Rafał] [Pending] Załozyć główne repo projektu w Organizacji OpenPKW i ustawić członków zespołu mobile jako contributors ( po otrzymaniu loginów github )
+
 * 14.04.2015-4 [Rafał] [Pending] załozyć liste dyskusyjną mobilki@openpkw.pl
 * 14.04.2015-5 [Rafał] [Pending] Wysłać Oficialne Pismo z prośbą do Panstwowej Komisji Wyborczej o udostepnienie ok 27500 namiarów na Obwodowe Komisje Wyborcze na najbliższe wybory Prezydenckie 2015 w trybie informacji jawno-publicznej - Plik CSV ( gmina, teryt, lokal, adres, Nr komisji w gminie, ilośc uprawnionych do głosowania )
 * 16.04.2015-6 [Michal] [Pending] Ile mozna zawrzec danych ( ilosc ) w kodzie QR i czy jeden kod QR trzeba by zastosowac na pojedyncza i kolejna strone protokolu wyborczego 
@@ -46,11 +46,12 @@ Ustalilismy takze, iż aplikacja docelowo w przyszlosci powinna:
  *  W sposob automatyczny rozpoznawac dane z protokolu wyborczego za pomoca OCR badz tez Kodu QR 
  *  Powinna zostać wyposażona w protokól SSL do enkrycpji i przesylania danych
  
+
+**ToDo zrobione:** 
+* 14.04.2015-1 [All] [Pending] Proszę o założenie swoich kont na (http:// www.github.com) i podanie mi założonych loginów np na Skype w naszej konferencji skajpowej o nazwie "OpenPKW Mobile"
+*  14.04.2015-4 [Rafał] [Pending] Załozyć główne repo projektu w Organizacji OpenPKW i ustawić członków zespołu mobile jako contributors ( po otrzymaniu loginów github )
+
  ##Risk & Issue Log
-
-
-
-
 
 **Risk & Issue closed:** 
 * Czy jak damy mozliwość zapisania zdjęc np na karcie SD bądz w pamięci telefonu użytkownikom, to czy nie spowoduje to ze użytkownicy zapomną nam wysłac te zdjecia ? Przez co mozemy ich nigdy nie otrzymać bądz otrzymamy je w mało racjonalnym czasie ? - Issue Closed 
@@ -85,8 +86,6 @@ Obecni: Kamil Szymczuk, Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal
  * Zmiana środowiska developerskiego i obnizenie wymagań DEV do wersji 4.0 Android ( ok 93 % rynku)
  
 
-**ToDo zrobione:** 
-
 
 
 ##Risk & Issue Log
@@ -95,7 +94,6 @@ Obecni: Kamil Szymczuk, Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal
 * Czy wprowadzenie captcha nie wpłynie negatywnie na ilość dodatkowych użytkowników ? i czy jest to istotne z naszego pkt widzenia. Jak to jest w innych tego typu aplikacjach ?
 
 
-**Risk & Issue closed:** 
 
  
 
