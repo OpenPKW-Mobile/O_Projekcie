@@ -13,7 +13,7 @@ Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj. 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
 
 * 14.04.2015-1 [All] [Pending] Proszę o założenie swoich kont na (http:// www.github.com) i podanie mi założonych loginów np na Skype w naszej konferencji skajpowej o nazwie "OpenPKW Mobile"
-* 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować nowe kolejne zmiany i inowacje
+* 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować nowe kolejne zmiany i innowacje
 * 14.04.2015-3 [Rafał] [Pending] Napisac User Stories, które przekształcą sie w taski developerskie
 * 14.04.2015-4 [Rafał] [Pending] Załozyć główne repo projektu w Organizacji OpenPKW i ustawić członków zespołu mobile jako contributors ( po otrzymaniu loginów github )
 * 14.04.2015-4 [Rafał] [Pending] załozyć liste dyskusyjną mobilki@openpkw.pl
