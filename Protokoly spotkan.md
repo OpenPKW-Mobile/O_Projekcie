@@ -40,7 +40,7 @@ Obecni: Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal Regula, Marcin 
  *  Dodamy Polityke Prywatnosci i zasady korzystania z aplikacji - na pierwszej stronie aplikacji pod samym Logo
  *  Zrezygnujemy z wprowadzenie przez uzytkownika wpisywania powtórnie drugiego maila w celu zalozenia konta, jednoczesnie dodajac pole komisji wyborczej do ktorej sie zglasza jako wolentariusz 
  *  Dla II Tury wyborów - zmienimy automatycznie Interface Aplikacji przy pomocy API
- *  W przypadku uruchiomienia wewnetrzej aplikacji aparatu fotograficznego uruchomimy go w max dostepnej rozdzielczosci i wielkosci ekranu
+ *  W przypadku uruchiomienia wewnetrzej aplikacji aparatu fotograficznego uruchomimy go w max dostepnej rozdzielczosci i wielkosci ekranu dla danego aparatu telefonicznego
  
 Ustalilismy takze iż aplikacja docelowo powinna:
  *  W sposob automatyczny rozpoznawac dane z protokolu wyborczego za pomoca OCR badz tez Kodu QR 
