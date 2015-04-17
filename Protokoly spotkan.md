@@ -1,10 +1,11 @@
 # Protokoly spotkan
 
 ## Agenda na najblższe spotkanie 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW_Mobile tj. 16.04.2015 godz 19:00. Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj. 20.04.2015 godz 19:00. Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-* 14.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ow i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego PaperBrowser
-* 14.04.2015. 14.04.2015. Prośba do Was o akceptacje pomysłu zorganizowania w najbliższy weekend webinarnego szkolenia z obsługi GitHub, Dillinger.io oraz Draw.io
+
+* 16.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ow i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego PaperBrowser
+
 
 
 
@@ -17,13 +18,43 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 14.04.2015-4 [Rafał] [Pending] Załozyć główne repo projektu w Organizacji OpenPKW i ustawić członków zespołu mobile jako contributors ( po otrzymaniu loginów github )
 * 14.04.2015-4 [Rafał] [Pending] załozyć liste dyskusyjną mobilki@openpkw.pl
 * 14.04.2015-5 [Rafał] [Pending] Wysłać Oficialne Pismo z prośbą do Panstwowej Komisji Wyborczej o udostepnienie ok 27500 namiarów na Obwodowe Komisje Wyborcze na najbliższe wybory Prezydenckie 2015 w trybie informacji jawno-publicznej - Plik CSV ( gmina, teryt, lokal, adres, Nr komisji w gminie, ilośc uprawnionych do głosowania )
+* 16.04.2015-6 [Michal] [Pending] Ile mozna zawrzec danych ( ilosc ) w kodzie QR i czy jeden kod QR trzeba by zastosowac na pojedyncza i kolejna strone protokolu wyborczego 
+
+
+
+##16.04.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 120 min.  
+Obecni: Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal Regula, Marcin Nowowiejski, Radek Majkowski
+
+**Dyskusja**
+* Przywitanie  dwóch nowych osób w projekcie i przedstawienie ich backgroud i skillsów 
+
+  *  Marcin -   Android Tester, Kraków
+  *  Radek  - WindowsPhone Developer, .Net, C++,  Warszawa
+
+* W wyniku dyskusji udalo sie ustlić i podjac nastepujace decyzje:
+
+ *  Zdecydowalismy sie na zrezygnowanie z uzycia Codu Captcha w aplikacji 
+ *  Usuniemy przycisk Zamknij z ostatniego Paper Browser Sheet.
+ *  Dodamy Polityke Prywatnosci i zasady korzystania z aplikacji - na pierwszej stronie aplikacji pod samym Logo
+ *  Zrezygnujemy z wprowadzenie przez uzytkownika wpisywania powtórnie drugiego maila w celu zalozenia konta, jednoczesnie dodajac pole komisji wyborczej do ktorej sie zglasza jako wolentariusz 
+ *  Dla II Tury wyborów - zmienimy automatycznie Interface Aplikacji przy pomocy API
+ *  W przypadku uruchiomienia wewnetrzej aplikacji aparatu fotograficznego uruchomimy go w max dostepnej rozdzielczosci i wielkosci ekranu
+ 
+Ustalilismy takze iż aplikacja docelowo powinna:
+ *  W sposob automatyczniy rozpoznawac dane z protokolu wyborczego za pomoca OCR badz tez Kodu QR 
+ *  Powinna zostać wyposażona w protokól SSL do enkrycpji i przesylania danych
+ 
+ 
+
 
 
 
 ##13.04.2015 20:00
 Format: Telekonferencja / Skype  
 Czas: 120 min.  
-Obecni: Kamil Szymczuk, MichaĹ‚ Urbaniak, Wojciech Radzioch , Przemek KisĹ‚o , RafaĹ‚ ReguĹ‚a 
+Obecni: Kamil Szymczuk, Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal Regula 
 
 **Dyskusja**
 * Przywitanie nowych osób i przedstawienie backgroud i skillsów poszczególnych członków projektu
@@ -56,7 +87,7 @@ Obecni: Kamil Szymczuk, MichaĹ‚ Urbaniak, Wojciech Radzioch , Przemek KisĹ�
 * Czy wprowadzenie captcha nie wpłynie negatywnie na ilość dodatkowych użytkowników ? i czy jest to istotne z naszego pkt widzenia. Jak to jest w innych tego typu aplikacjach ?
 
 
-
+**Risk & Issue closed:** 
 
  
 
