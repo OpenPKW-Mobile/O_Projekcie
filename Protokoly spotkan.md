@@ -3,9 +3,9 @@
 ## Agenda na najblższe spotkanie 
 Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj. 20.04.2015 godz 19:00. Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-
-* 16.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ow i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego PaperBrowser
-
+* 16.04.2015. Zastanowić sie kiedy przeprowadzić szkolenie z draw.io, dillinger i github 
+* 16.04.2015. Zastanowić sie gdzie umiecić Credits z naszymi nazwiskami w aplikacji
+* 14.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ow i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego PaperBrowser
 
 
 
@@ -36,14 +36,14 @@ Obecni: Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal Regula, Marcin 
 * W wyniku dyskusji udalo sie ustlić i podjac nastepujace decyzje:
 
  *  Zdecydowalismy sie na zrezygnowanie z uzycia Codu Captcha w aplikacji 
- *  Usuniemy przycisk Zamknij z ostatniego Paper Browser Sheet.
+ *  Usuniemy przycisk Zamknij z ostatniego Paper Browser Sheet ( czy oby na pewno  - do ponownego zastanowienia ? ) 
  *  Dodamy Polityke Prywatnosci i zasady korzystania z aplikacji - na pierwszej stronie aplikacji pod samym Logo
  *  Zrezygnujemy z wprowadzenie przez uzytkownika wpisywania powtórnie drugiego maila w celu zalozenia konta, jednoczesnie dodajac pole komisji wyborczej do ktorej sie zglasza jako wolentariusz 
  *  Dla II Tury wyborów - zmienimy automatycznie Interface Aplikacji przy pomocy API
  *  W przypadku uruchiomienia wewnetrzej aplikacji aparatu fotograficznego uruchomimy go w max dostepnej rozdzielczosci i wielkosci ekranu
  
 Ustalilismy takze iż aplikacja docelowo powinna:
- *  W sposob automatyczniy rozpoznawac dane z protokolu wyborczego za pomoca OCR badz tez Kodu QR 
+ *  W sposob automatyczny rozpoznawac dane z protokolu wyborczego za pomoca OCR badz tez Kodu QR 
  *  Powinna zostać wyposażona w protokól SSL do enkrycpji i przesylania danych
  
  
