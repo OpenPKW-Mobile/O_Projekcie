@@ -48,8 +48,8 @@ Ustalilismy takze, iż aplikacja docelowo w przyszlosci powinna:
  
 
 **ToDo zrobione:** 
-* 14.04.2015-1 [All] [Pending] Proszę o założenie swoich kont na (http:// www.github.com) i podanie mi założonych loginów np na Skype w naszej konferencji skajpowej o nazwie "OpenPKW Mobile"
-*  14.04.2015-4 [Rafał] [Pending] Załozyć główne repo projektu w Organizacji OpenPKW i ustawić członków zespołu mobile jako contributors ( po otrzymaniu loginów github )
+* 14.04.2015-1 [All] [Done] Proszę o założenie swoich kont na (http:// www.github.com) i podanie mi założonych loginów np na Skype w naszej konferencji skajpowej o nazwie "OpenPKW Mobile"
+*  14.04.2015-4 [Rafał] [Done] Załozyć główne repo projektu w Organizacji OpenPKW i ustawić członków zespołu mobile jako contributors ( po otrzymaniu loginów github )
 
  ##Risk & Issue Log
 
