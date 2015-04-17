@@ -42,13 +42,22 @@ Obecni: Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal Regula, Marcin 
  *  Dla II Tury wyborów - zmienimy automatycznie Interface Aplikacji przy pomocy API
  *  W przypadku uruchiomienia wewnetrzej aplikacji aparatu fotograficznego uruchomimy go w max dostepnej rozdzielczosci i wielkosci ekranu dla danego aparatu telefonicznego
  
-Ustalilismy takze iż aplikacja docelowo powinna:
+Ustalilismy takze, iż aplikacja docelowo w przyszlosci powinna:
  *  W sposob automatyczny rozpoznawac dane z protokolu wyborczego za pomoca OCR badz tez Kodu QR 
  *  Powinna zostać wyposażona w protokól SSL do enkrycpji i przesylania danych
  
- 
+ ##Risk & Issue Log
 
 
+
+
+
+**Risk & Issue closed:** 
+* Czy jak damy mozliwość zapisania zdjęc np na karcie SD bądz w pamięci telefonu użytkownikom, to czy nie spowoduje to ze użytkownicy zapomną nam wysłac te zdjecia ? Przez co mozemy ich nigdy nie otrzymać bądz otrzymamy je w mało racjonalnym czasie ? - Issue Closed 
+
+Ustalilismy, iż po zapisaniu zdjec w pamieci telefonu badz na karcie SD - aplikacja w chwili pojawienia sie lacza i-net samoczynnie wysle dane w postaci zdjec i danych z protokoly wyborczego z informacja dla uzytkownika o przeprowadzonej wysylce
+
+* Czy wprowadzenie captcha nie wpłynie negatywnie na ilość dodatkowych użytkowników ? i czy jest to istotne z naszego pkt widzenia. Jak to jest w innych tego typu aplikacjach ? - Issue Closed Patrz ----> Rezygnacja z Captcha
 
 
 ##13.04.2015 20:00
@@ -79,7 +88,6 @@ Obecni: Kamil Szymczuk, Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal
 **ToDo zrobione:** 
 
 
- 
 
 ##Risk & Issue Log
 
