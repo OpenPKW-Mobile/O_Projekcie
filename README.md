@@ -11,17 +11,15 @@ główne jej repozytorium zostaje wydzielone do odrębnego pod projektu. Docelow
 
 | Członek  | Rola  |
 | ------------- | ------------- |
-| Rafal_R | Architektura, Organizacja  |
-| Robert_P  |Weryfikacja, Analiza   |
-|Przemek_J | Weryfikacja, Analiza  |
-|Wojciech_R | Developer Android  |
-|Wojciech_R | Developer Android  |
-|Wojciech_R | Developer Android  |
 |Kamil_S | Developer Android  |
-|Michal_U | Developer Android  |
-|Przemek_K | Developer Android  |
-|Radek_M | Developer Windows Phone  |
 |Marcin_N | Developer Tester Android  |
+|Michal_U | Developer Android  |
+|Przemek_J | Weryfikacja, Analiza  |
+|Radek_M | Developer Windows Phone  |
+|Rafal_R | Architektura, Organizacja  |
+|Robert_P  |Weryfikacja, Analiza   |
+|Wojciech_R | Developer Android  | 
+
 
 
 
