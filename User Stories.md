@@ -55,7 +55,8 @@ Jest to lista maximum wymagań by obsłużyć nadchodzące wybory
 Jest to lista docelowa wymagań by obsłużyć  w  przyszlosci wybory prezydenckie zgodnie z ordynacja wyborczą i wszystkimi uchwalami PKW
 * OPW-U-25: Jako użytkownik mam możliwość autentyfikacji i potwierdzenia swojej osoby w postaci certyfikatów autentyfikujących
 * OPW-U-26: Jako użytkownik mam możliwość przesyłania danych w pełni bezpiecznie za pomocą enkryptowanego protokołu np TSL
-* OPW-U-26: 
+* OPW-U-27: Jako użytkownik i dla mojej wygody wszelkie informacje z protokołu wyborczego przekazywane będą do serwera w postaci automatycznej za pomocą OCR bądz kod QR
+*  OPW-U-28: Jako użytkownik i dla mojej wygody zostanie wprowadzona funkcja - Zapisz i wyslij zdjęcia póżniej w chwili gdy będzie dostępne połączenie I-net
 
 
 
