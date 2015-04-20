@@ -42,7 +42,7 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 20.04-2015-10 [Rafał] [New] Przygotować graficzne pliki aplikacji wraz z info o kolorach w Hex RGB 
 * 20.04-2015 [Michał] [New] Przygotowanie/Rozeznanie bibliotek i Best Practise do wykorzystania w projekcie
 * 20.04-2015 [All] [Pending] Przepatrzyć i zwalidować User Stories 
-* 20.04-2015 [Kamil] [New] Przerobić w Draw.io Paper Browser
+* 20.04-2015 [Kamil] [New] Przerobić w Draw.io Paper Browser i wrzucić na GitHub poprawion wersje
 
 **ToDo zrobione:** 
 
