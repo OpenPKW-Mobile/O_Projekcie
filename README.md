@@ -11,14 +11,17 @@ główne jej repozytorium zostaje wydzielone do odrębnego pod projektu. Docelow
 
 | Członek  | Rola  |
 | ------------- | ------------- |
+|Dagna_S | Developer WindowsPhone|
 |Kamil_S | Developer Android  |
 |Marcin_N | Developer Tester Android  |
+|Mariusz_W | Developer WindowsPhone|
 |Michal_U | Developer Android  |
 |Przemek_J | Weryfikacja, Analiza  |
 |Radek_M | Developer Windows Phone  |
 |Rafal_R | Architektura, Organizacja  |
 |Robert_P  |Weryfikacja, Analiza   |
-|Wojciech_R | Developer Android  | 
+|Wojciech_R | Developer Android  |
+
 
 
 
@@ -50,7 +53,8 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 
 | Element  | Link  |
 | ------------- | ------------- |
-| Tablica Trello   | https://trello.com/b/G0qEJ9M5/openpkw-mobile |
+| Tablica Trello Android | https://trello.com/b/G0qEJ9M5/openpkw-android|
+| Tavblica Trello WindowsPhone |    https://trello.com/b/XlP5rmVb/openpkw-windowsphone|
 |  Draw.io |    https://www.draw.io  |
 | Dillinger.io  |  http://dillinger.io |
 |  GitHub  |  https://github.com/OpenPKW-Mobile|
