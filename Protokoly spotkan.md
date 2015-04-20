@@ -25,7 +25,7 @@ Odpowiedzialny za protokól: Rafal
 2. Credits - zaszyjemy w postaci linków do strony www na pierwszej stronie Appk
  
 
-3.  W wersji rozrzerzonej Appk jesli wystarczy czasu, postramy się zbudowac DRAWER - Boczną zakładke / Slider, która pomoże użytkownikowi nawigować po aplikacji. W sliderze tym będziemy także umieszczać inne dodatkowe funkcje np podpowiedzi czy krótki przewownik po Appk dla usera
+3.  W wersji rozrzerzonej Appk jesli wystarczy czasu, postramy się zbudowac DRAWER - Boczną zakładke / Slider, która pomoże użytkownikowi nawigować po aplikacji. W sliderze tym będziemy także umieszczać inne dodatkowe funkcje np podpowiedzi czy też krótki przewownik po Appk dla usera
   
 4.Po zainicjowaniu tasków w Trello - Developrzy zaczną organizować sobie prace i asygnować się samodzielnie do tasków
 
