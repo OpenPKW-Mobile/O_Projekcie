@@ -1,14 +1,24 @@
 # Protokoły spotkań
 
 ## Agenda na najblższe spotkanie 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **20.04.2015 godz. 19:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **23.04.2015 godz. 19:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
 
 * 20.04.2015. Czy na pewno usuwamy przycisk Zamknij ? Bo gdy go usuniemy to zapewne musimy dodać jeszcze jeden "Sheet" do aplikacji  "Czy na pewno chcesz wyjść ?  z buttonami TAK/NIE - pomijam kwestie, że i tak musimy zapewne taki Sheet dodać
 * 16.04.2015. Zastanowić się kiedy przeprowadzić szkolenie z draw.io, dillinger i github 
 * 16.04.2015. Zastanowić się gdzie umieścić "Credits" z naszymi nazwiskami w aplikacji i w jakiej formie ( link do www czy w samej App)
 * 14.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego PaperBrowser
+ 
 
+
+##20.04.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 120 min.  
+Obecni:  Kamil, Przemek Kislo, Wojciech,  Rafal,  Mariusz, Michał 
+
+
+**Dyskusja**
+1. Dodac Sheet :) 
 
 
 ## Aktualna lista ToDo: 
@@ -16,12 +26,14 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 
 
 * 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować nowe kolejne zmiany i innowacje
-* 14.04.2015-3 [Rafał] [Pending] Napisac User Stories, które przekształcą sie w taski developerskie
-
-* 14.04.2015-4 [Rafał] [Pending] załozyć liste dyskusyjną mobilki@openpkw.pl
 * 14.04.2015-5 [Rafał] [Pending] Wysłać Oficialne Pismo z prośbą do Panstwowej Komisji Wyborczej o udostepnienie ok 27500 namiarów na Obwodowe Komisje Wyborcze na najbliższe wybory Prezydenckie 2015 w trybie informacji jawno-publicznej - Plik CSV ( gmina, teryt, lokal, adres, Nr komisji w gminie, ilośc uprawnionych do głosowania )
-* 16.04.2015-6 [Michal] [Pending] Ile można zawrzeć danych ( ilość ) w kodzie QR i czy jeden kod QR trzeba by zastosować na pojedynczą i kolejną strone protokołu wyborczego 
+* 20.04.2015-6 [All] [Pending] Testy Codów QR
 
+**ToDo zrobione:** 
+
+* 14.04.2015-3 [Rafał] [Done] Napisac User Stories, które przekształcą sie w taski developerskie
+*  14.04.2015-4 [Rafał] [Done] załozyć liste dyskusyjną mobilki@openpkw.pl
+*  * 16.04.2015-6 [Michal] [Done] Ile można zawrzeć danych ( ilość ) w kodzie QR i czy jeden kod QR trzeba by zastosować na pojedynczą i kolejną strone protokołu wyborczego 
 
 
 ##16.04.2015 20:00
@@ -90,44 +102,6 @@ Obecni: Kamil Szymczuk, Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal
 
 * Czy jak damy mozliwość zapisania zdjęc np na karcie SD bądz w pamięci telefonu użytkownikom, to czy nie spowoduje to ze użytkownicy zapomną nam wysłac te zdjecia ? Przez co mozemy ich nigdy nie otrzymać bądz otrzymamy je w mało racjonalnym czasie ?
 * Czy wprowadzenie captcha nie wpłynie negatywnie na ilość dodatkowych użytkowników ? i czy jest to istotne z naszego pkt widzenia. Jak to jest w innych tego typu aplikacjach ?
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
- 
-
-
-
-
- 
-
-
-
-
-
-
-
-
 
 
 
