@@ -1,11 +1,13 @@
-# Protokoly spotkan
+# Protokoły spotkań
 
 ## Agenda na najblższe spotkanie 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj. 20.04.2015 godz 19:00. Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **20.04.2015 godz. 19:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-* 16.04.2015. Zastanowić sie kiedy przeprowadzić szkolenie z draw.io, dillinger i github 
-* 16.04.2015. Zastanowić sie gdzie umiecić Credits z naszymi nazwiskami w aplikacji
-* 14.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ow i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego PaperBrowser
+
+* 20.04.2015. Czy na pewno usuwamy przycisk Zamknij ? Bo gdy go usuniemy to zapewne musimy dodać jeszcze jeden "Sheet" do aplikacji  "Czy na pewno chcesz wyjść ?  z buttonami TAK/NIE - pomijam kwestie, że i tak musimy zapewne taki Sheet dodać
+* 16.04.2015. Zastanowić się kiedy przeprowadzić szkolenie z draw.io, dillinger i github 
+* 16.04.2015. Zastanowić się gdzie umieścić "Credits" z naszymi nazwiskami w aplikacji i w jakiej formie ( link do www czy w samej App)
+* 14.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego PaperBrowser
 
 
 
@@ -18,7 +20,7 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 
 * 14.04.2015-4 [Rafał] [Pending] załozyć liste dyskusyjną mobilki@openpkw.pl
 * 14.04.2015-5 [Rafał] [Pending] Wysłać Oficialne Pismo z prośbą do Panstwowej Komisji Wyborczej o udostepnienie ok 27500 namiarów na Obwodowe Komisje Wyborcze na najbliższe wybory Prezydenckie 2015 w trybie informacji jawno-publicznej - Plik CSV ( gmina, teryt, lokal, adres, Nr komisji w gminie, ilośc uprawnionych do głosowania )
-* 16.04.2015-6 [Michal] [Pending] Ile mozna zawrzec danych ( ilosc ) w kodzie QR i czy jeden kod QR trzeba by zastosowac na pojedyncza i kolejna strone protokolu wyborczego 
+* 16.04.2015-6 [Michal] [Pending] Ile można zawrzeć danych ( ilość ) w kodzie QR i czy jeden kod QR trzeba by zastosować na pojedynczą i kolejną strone protokołu wyborczego 
 
 
 
@@ -35,15 +37,15 @@ Obecni: Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal Regula, Marcin 
 
 * W wyniku dyskusji udalo sie ustlić i podjac nastepujace decyzje:
 
- *  Zdecydowalismy sie na zrezygnowanie z uzycia Codu Captcha w aplikacji 
- *  Usuniemy przycisk Zamknij z ostatniego Paper Browser Sheet ( czy oby na pewno  - do ponownego zastanowienia ? ) 
+ *  Zdecydowalismy się na zrezygnowanie z użycia Codu Captcha w aplikacji 
+ *  Usuniemy przycisk Zamknij z ostatniego Paper Browser Sheet  
  *  Dodamy Polityke Prywatnosci i zasady korzystania z aplikacji - na pierwszej stronie aplikacji pod samym Logo
- *  Zrezygnujemy z wprowadzenie przez uzytkownika wpisywania powtórnie drugiego maila w celu zalozenia konta, jednoczesnie dodajac pole komisji wyborczej do ktorej sie zglasza jako wolentariusz 
+ *  Zrezygnujemy z wprowadzenia przez użytkownika wpisywania powtórnie drugiego maila w celu założenia konta, jednoczesnie dodajac pole komisji wyborczej do,  której sie zgłasza jako wolentariusz w swojej gminie
  *  Dla II Tury wyborów - zmienimy automatycznie Interface Aplikacji przy pomocy API
- *  W przypadku uruchiomienia wewnetrzej aplikacji aparatu fotograficznego uruchomimy go w max dostepnej rozdzielczosci i wielkosci ekranu dla danego aparatu telefonicznego
+ *  W przypadku uruchiomienia wewnętrznej aplikacji aparatu fotograficznego uruchomimy go w max dostepnej rozdzielczośći i wielkości ekranu dla danego modelu  telefonu i aparatu fotograficznegio z nim związanego
  
-Ustalilismy takze, iż aplikacja docelowo w przyszlosci powinna:
- *  W sposob automatyczny rozpoznawac dane z protokolu wyborczego za pomoca OCR badz tez Kodu QR 
+Ustalilismy także, iż aplikacja docelowo w przyszlosci powinna:
+ *  W sposob automatyczny rozpoznawać dane z protokołu wyborczego za pomoca OCR bądź tez Kodu QR 
  *  Powinna zostać wyposażona w protokól SSL do enkrycpji i przesylania danych
  
 
@@ -54,9 +56,8 @@ Ustalilismy takze, iż aplikacja docelowo w przyszlosci powinna:
  ##Risk & Issue Log
 
 **Risk & Issue closed:** 
-* Czy jak damy mozliwość zapisania zdjęc np na karcie SD bądz w pamięci telefonu użytkownikom, to czy nie spowoduje to ze użytkownicy zapomną nam wysłac te zdjecia ? Przez co mozemy ich nigdy nie otrzymać bądz otrzymamy je w mało racjonalnym czasie ? - Issue Closed 
 
-Ustalilismy, iż po zapisaniu zdjec w pamieci telefonu badz na karcie SD - aplikacja w chwili pojawienia sie lacza i-net samoczynnie wysle dane w postaci zdjec i danych z protokoly wyborczego z informacja dla uzytkownika o przeprowadzonej wysylce
+* Ustalilismy, iż po zapisaniu zdjęc w pamieci telefonu bądź na karcie SD - aplikacja w chwili pojawienia się łącza i-net samoczynnie wyśle dane w postaci zdjęc i danych z protokołu  wyborczego z informacją dla użytkownika o przeprowadzonej wysyłce w postaci automatycznej
 
 * Czy wprowadzenie captcha nie wpłynie negatywnie na ilość dodatkowych użytkowników ? i czy jest to istotne z naszego pkt widzenia. Jak to jest w innych tego typu aplikacjach ? - Issue Closed Patrz ----> Rezygnacja z Captcha
 
@@ -85,9 +86,6 @@ Obecni: Kamil Szymczuk, Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal
 14.04.2015-5 [Rafał]
  * Zmiana środowiska developerskiego i obnizenie wymagań DEV do wersji 4.0 Android ( ok 93 % rynku)
  
-
-
-
 ##Risk & Issue Log
 
 * Czy jak damy mozliwość zapisania zdjęc np na karcie SD bądz w pamięci telefonu użytkownikom, to czy nie spowoduje to ze użytkownicy zapomną nam wysłac te zdjecia ? Przez co mozemy ich nigdy nie otrzymać bądz otrzymamy je w mało racjonalnym czasie ?
@@ -97,6 +95,31 @@ Obecni: Kamil Szymczuk, Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal
 
  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+
+
+ 
 
 
 
