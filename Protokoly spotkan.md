@@ -48,8 +48,11 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 14.04.2015-3 [Rafał] [Done] Napisac User Stories, które przekształcą sie w taski developerskie
 *  14.04.2015-4 [Rafał] [Done] załozyć liste dyskusyjną mobilki@openpkw.pl
 *  16.04.2015-6 [Michal] [Done] Ile można zawrzeć danych ( ilość ) w kodzie QR i czy jeden kod QR trzeba by zastosować na pojedynczą i kolejną strone protokołu wyborczego 
-* 16.04.2015.[All] [Done] Zastanowić się kiedy przeprowadzić szkolenie z draw.io, dillinger i github 
 
+##Risk & Issue Log
+
+**Risk & Issue closed:** 
+* 16.04.2015 [All] [Done] Zastanowić się kiedy przeprowadzić szkolenie z draw.io, dillinger i github. Zrobione podczas konferencji 20.04.2015
 
 ##16.04.2015 20:00
 Format: Telekonferencja / Skype  
