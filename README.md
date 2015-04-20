@@ -34,7 +34,7 @@ Kontakt:
 
 Strona główna projektu: https://openpkw.pl/ 
 
-GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
+GitHub: https://github.com/OpenPKW-Mobile
 
 
 
