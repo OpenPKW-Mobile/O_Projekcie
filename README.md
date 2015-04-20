@@ -30,11 +30,11 @@ Kontakt:
   - Rafał Reguła: <rafal.regula@openpkw.pl>
   - Skype: rafal.regula
   
-## Informacje o projekcie OpenPKW
+## Informacje o projekcie OpenPKW / Mobile
 
 Strona główna projektu: https://openpkw.pl/ 
 
-GitHub: https://github.com/OpenPKW-Mobile
+GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 
 
 
@@ -53,7 +53,7 @@ GitHub: https://github.com/OpenPKW-Mobile
 | Tablica Trello   | https://trello.com/b/G0qEJ9M5/openpkw-mobile |
 |  Draw.io |    https://www.draw.io  |
 | Dillinger.io  |  http://dillinger.io |
-|  GitHub  |  https://github.com/OpenPKW-Mobile/O_Projekcie|
+|  GitHub  |  https://github.com/OpenPKW-Mobile|
 |  OpenProject |https://op.openpkw.pl   |
 
 
