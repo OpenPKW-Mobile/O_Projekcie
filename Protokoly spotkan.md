@@ -12,6 +12,7 @@ Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: 
 Format: Telekonferencja / Skype  
 Czas: 120 min.  
 Obecni:  Kamil, Przemek, Wojciech,  Rafal,  Mariusz, Michał
+
 Odpowiedzialny za protokól: Rafal
 
 
