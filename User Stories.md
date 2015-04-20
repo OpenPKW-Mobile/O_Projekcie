@@ -48,15 +48,14 @@ Jest to lista maximum wymagań by obsłużyć nadchodzące wybory
  * nr komisji w danej gminie ( wybrane z listy scroll i wyswietlone za pomocą geopozycjonowania GPS )
 * OPW-U-21 : Jako użytkownik mam możliwość z pozycji samej aplikacji do uaktualnienia/dodawania do listy komisji - ich numerów w danej lokalizacji, ustalanej za pomocą GPS 
 * OPW-U-22 : Numery komisji wyborczych z danych lokazliacji ustalanych za pomocą GPS wyswietlają się w postaci scroll listy - obciętej do 8 pozycji i w zasięgu np do 10 km od lokalizacji telefonu 
-
-* OPW-U-23 :
+*  OPW-U-23: Jako użytkownik i dla mojej wygody zostanie wprowadzona funkcja - Zapisz i wyslij zdjęcia póżniej w chwili gdy będzie dostępne połączenie I-net
 
 ## Wariant docelowy
 Jest to lista docelowa wymagań by obsłużyć  w  przyszlosci wybory prezydenckie zgodnie z ordynacja wyborczą i wszystkimi uchwalami PKW
 * OPW-U-25: Jako użytkownik mam możliwość autentyfikacji i potwierdzenia swojej osoby w postaci certyfikatów autentyfikujących
 * OPW-U-26: Jako użytkownik mam możliwość przesyłania danych w pełni bezpiecznie za pomocą enkryptowanego protokołu np TSL
 * OPW-U-27: Jako użytkownik i dla mojej wygody wszelkie informacje z protokołu wyborczego przekazywane będą do serwera w postaci automatycznej za pomocą OCR bądz kod QR
-*  OPW-U-28: Jako użytkownik i dla mojej wygody zostanie wprowadzona funkcja - Zapisz i wyslij zdjęcia póżniej w chwili gdy będzie dostępne połączenie I-net
+
 
 
 
