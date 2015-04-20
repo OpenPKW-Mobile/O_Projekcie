@@ -11,7 +11,8 @@ Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: 
 ##20.04.2015 19:00
 Format: Telekonferencja / Skype  
 Czas: 120 min.  
-Obecni:  Kamil, Przemek, Wojciech,  Rafal,  Mariusz, Michał 
+Obecni:  Kamil, Przemek, Wojciech,  Rafal,  Mariusz, Michał
+Odpowiedzialny za protokól: Rafal
 
 
 **Dyskusja**
