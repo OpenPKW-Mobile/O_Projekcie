@@ -4,21 +4,21 @@
 Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **23.04.2015 godz. 19:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
 
-* 20.04.2015. Czy na pewno usuwamy przycisk Zamknij ? Bo gdy go usuniemy to zapewne musimy dodać jeszcze jeden "Sheet" do aplikacji  "Czy na pewno chcesz wyjść ?  z buttonami TAK/NIE - pomijam kwestie, że i tak musimy zapewne taki Sheet dodać
-* 16.04.2015. Zastanowić się kiedy przeprowadzić szkolenie z draw.io, dillinger i github 
-* 16.04.2015. Zastanowić się gdzie umieścić "Credits" z naszymi nazwiskami w aplikacji i w jakiej formie ( link do www czy w samej App)
-* 14.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego PaperBrowser
+* 14.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego/poprawionego PaperBrowser
  
 
 
-##20.04.2015 20:00
+##20.04.2015 19:00
 Format: Telekonferencja / Skype  
 Czas: 120 min.  
-Obecni:  Kamil, Przemek Kislo, Wojciech,  Rafal,  Mariusz, Michał 
+Obecni:  Kamil, Przemek, Wojciech,  Rafal,  Mariusz, Michał 
 
 
 **Dyskusja**
-1. Dodac Sheet :) 
+1. W trakcie dyskusji ustalilismy,  iż przycisk ZAMKNIJ w nr 18 Paper Browser pozostaje na chwilę obecną w projektowanej aplikacji. Dodatkowo mamy dodać Sheet z informacją " Czy chcesz zamknąc  aplikacje ?" i buttonami  Powrót / Zamknij 
+2. Credits - zaszyjemy w postaci linków do strony www na pierwszej stronie Appk
+3. W wersji rozrzerzonej Appk jesli wystarczy czasu, postramy się zbudowac DRAWER - Boczną zakładke / Slider, która pomoże użytkownikowi nawigować po aplikacji. W sliderze tym będziemy także umieszczać inne dodatkowe funkcje np podpowiedzi czy krótki przewownik po Appk dla usera 
+4. Po zainicjowaniu tasków w Trello - Developrzy zaczną organizować sobie prace i asygnować się samodzielnie do tasków
 
 
 ## Aktualna lista ToDo: 
@@ -28,12 +28,19 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować nowe kolejne zmiany i innowacje
 * 14.04.2015-5 [Rafał] [Pending] Wysłać Oficialne Pismo z prośbą do Panstwowej Komisji Wyborczej o udostepnienie ok 27500 namiarów na Obwodowe Komisje Wyborcze na najbliższe wybory Prezydenckie 2015 w trybie informacji jawno-publicznej - Plik CSV ( gmina, teryt, lokal, adres, Nr komisji w gminie, ilośc uprawnionych do głosowania )
 * 20.04.2015-6 [All] [Pending] Testy Codów QR
+* 20.04.2015-7 [Rafał] [Pending] Zdefiniować Tablice Trello z taskami + ustawienie kontrybutorów
+* 20.04.2015-9 [Wojtek] [New] Zaincijować Setup/Start projektu w katalogu Android
+* 20.04-2015-10 [Rafał] [New] Przygotować graficzne pliki aplikacji wraz z info o kolorach w Hex RGB 
+* 20.04-2015 [Michał] [New] Przygotowanie/Rozeznanie bibliotek i Best Practise do wykorzystania w projekcie
+* 20.04-2015 [All] [Pending] Przepatrzyć i zwalidować User Stories 
+* 20.04-2015 [Kamil] [New] Przerobić w Draw.io Paper Browser
 
 **ToDo zrobione:** 
 
 * 14.04.2015-3 [Rafał] [Done] Napisac User Stories, które przekształcą sie w taski developerskie
 *  14.04.2015-4 [Rafał] [Done] załozyć liste dyskusyjną mobilki@openpkw.pl
-*  * 16.04.2015-6 [Michal] [Done] Ile można zawrzeć danych ( ilość ) w kodzie QR i czy jeden kod QR trzeba by zastosować na pojedynczą i kolejną strone protokołu wyborczego 
+*  16.04.2015-6 [Michal] [Done] Ile można zawrzeć danych ( ilość ) w kodzie QR i czy jeden kod QR trzeba by zastosować na pojedynczą i kolejną strone protokołu wyborczego 
+* 16.04.2015.[All] [Done] Zastanowić się kiedy przeprowadzić szkolenie z draw.io, dillinger i github 
 
 
 ##16.04.2015 20:00
@@ -102,8 +109,4 @@ Obecni: Kamil Szymczuk, Michal Urbaniak, Wojciech Radzioch ,Przemek Kislo, Rafal
 
 * Czy jak damy mozliwość zapisania zdjęc np na karcie SD bądz w pamięci telefonu użytkownikom, to czy nie spowoduje to ze użytkownicy zapomną nam wysłac te zdjecia ? Przez co mozemy ich nigdy nie otrzymać bądz otrzymamy je w mało racjonalnym czasie ?
 * Czy wprowadzenie captcha nie wpłynie negatywnie na ilość dodatkowych użytkowników ? i czy jest to istotne z naszego pkt widzenia. Jak to jest w innych tego typu aplikacjach ?
-
-
-
-
 
