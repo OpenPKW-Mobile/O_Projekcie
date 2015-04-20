@@ -39,7 +39,7 @@ Jest to lista minimalnych wymagań by obsłużyć nadchodzące wybory
 *  OPM-U-18 : Jako użytkownik dostaje podziekowania za wysłanie danych w postaci komunikatu i przyjemnej animacji GIF
 * OPM-U-19 : Jako użytkownik mogę zamknąc aplikacje bądź wybrać kolejną komisje dla której chce przekazać dane
 
-## Wariant rozrzerzony
+## Wariant rozszerzony
 Jest to lista maximum wymagań by obsłużyć nadchodzące wybory
 * OPW-U-20 : Jako użytkownik mam możliwość zarejestrowania się po przez aplikacje.  Podając
  * imie.nazwisko
