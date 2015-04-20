@@ -15,10 +15,17 @@ Obecni:  Kamil, Przemek, Wojciech,  Rafal,  Mariusz, Michał
 
 
 **Dyskusja**
-1. W trakcie dyskusji ustalilismy,  iż przycisk ZAMKNIJ w nr 18 Paper Browser pozostaje na chwilę obecną w projektowanej aplikacji. Dodatkowo mamy dodać Sheet z informacją " Czy chcesz zamknąc  aplikacje ?" i buttonami  Powrót / Zamknij 
+ W trakcie dyskusji ustalilismy:
+ 
+1. Że przycisk ZAMKNIJ w nr 18 Paper Browser pozostaje na chwilę obecną w projektowanej aplikacji. Dodatkowo mamy dodać Sheet z informacją " Czy chcesz zamknąc  aplikacje ?" i buttonami  Powrót / Zamknij 
+
+
 2. Credits - zaszyjemy w postaci linków do strony www na pierwszej stronie Appk
-3. W wersji rozrzerzonej Appk jesli wystarczy czasu, postramy się zbudowac DRAWER - Boczną zakładke / Slider, która pomoże użytkownikowi nawigować po aplikacji. W sliderze tym będziemy także umieszczać inne dodatkowe funkcje np podpowiedzi czy krótki przewownik po Appk dla usera 
-4. Po zainicjowaniu tasków w Trello - Developrzy zaczną organizować sobie prace i asygnować się samodzielnie do tasków
+ 
+
+3.  W wersji rozrzerzonej Appk jesli wystarczy czasu, postramy się zbudowac DRAWER - Boczną zakładke / Slider, która pomoże użytkownikowi nawigować po aplikacji. W sliderze tym będziemy także umieszczać inne dodatkowe funkcje np podpowiedzi czy krótki przewownik po Appk dla usera
+  
+4.Po zainicjowaniu tasków w Trello - Developrzy zaczną organizować sobie prace i asygnować się samodzielnie do tasków
 
 
 ## Aktualna lista ToDo: 
