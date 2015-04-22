@@ -3,6 +3,7 @@
 ## Agenda na najblższe spotkanie 
 Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **23.04.2015 godz. 19:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
+* 22.04.2015. Za duzo linków na pierwszej stronie aplikacji. Linki do Polityki Prywatności i użytkowania, link do instrukcji obsługi oraz do Credis kto tworzył Apke - Chyba trzeba cos tu graficznego wymyslić 
 
 * 14.04.2015. Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego/poprawionego PaperBrowser
  
