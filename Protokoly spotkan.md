@@ -6,7 +6,7 @@ Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: 
 
 * 14.04.2015.[All] Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego/poprawionego PaperBrowser
 
-##20.04.2015 19:00
+##23.04.2015 19:00
 Format: Telekonferencja / Skype  
 Czas: 120 min.  
 Obecni:  Kamil, Michal, Mariusz, Mateusz, Dagna, Radek, Piotr, Rafał 
