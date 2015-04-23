@@ -1,14 +1,47 @@
 # Protokoły spotkań
 
 ## Agenda na najblższe spotkanie 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **23.04.2015 godz. 19:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **27.04.2015 godz. 19:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-* 22.04.2015.[RafalR] Ponownie wróciła sprawa nazwy aplikacji OpenPkW Mobile - Do przegadania na Telco
-* 22.04.2015.[RafalR] Za duzo linków na pierwszej stronie aplikacji. Linki do Polityki Prywatności i użytkowania, link do instrukcji obsługi oraz do Credis kto tworzył Apke - Chyba trzeba cos tu graficznego wymyslić 
+* 14.04.2015.[All] Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego/poprawionego PaperBrowser
 
-* 14.04.2015.[RafalR] Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego/poprawionego PaperBrowser
- 
+##20.04.2015 19:00
+Format: Telekonferencja / Skype  
+Czas: 120 min.  
+Obecni:  Kamil, Michal, Mariusz, Mateusz, Dagna, Radek, Piotr, Rafał 
+
+Odpowiedzialny za protokól: Rafal
+
+**Dyskusja**
+
+W projekcie powitalismy nowych kontrybutorów:
+  *  Mariusz  P -   Android, BackEnd Developer
+  *  Piotr T - iOS Developer
+  *  Dagna - Windows Mobile Developer
+  
+Ponownie wróciła sprawa nazwy aplikacji OpenPkW Mobile. Postanowilismy, iż w razie potrzeby nazwa zostanie zmieniona, lecz zajmować się tym obecnie nie bedziemy z racji niskiego priorytetu ww sprawy. Sprawa powróci przed samym releasem aplikacji.
+
+Omówilismy temat ilości linków na pierwszej stronie w aplikacji. Ustaliliśmy, iż link będzie najprawdopodobniej jeden bądz dwa do/na strone www ( backend ). Na stronie tej zbudujemy jakiś prosty  dashboard graficzny w kwestii Credits,  Polityki prywatnosci, Regulaminu korzystania z Appk oraz samej instrukcji obslugi.  
+
+Zdecydowaliśmy, iż bedziemy tworzyć system rozproszony: część danych liczbowych z protokołu wyborczego przekazywana bedzie do jednego serwera za pomocą API, zdjecia natomiast do drugiego całkiem innego z częścią API które sami będziemy tworzyć 
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
+
+* 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować nowe kolejne zmiany i innowacje
+* 20.04.2015-6 [All] [OnHold] Testy Codów QR - funkconalnosc docelowa w obecnej chwili zawieszamy task 
+* 20.04-2015-12 [All] [Pending] Przepatrzyć i zwalidować User Stories w rozbiciu na taski w trello
+* 20.04-2015-13 [Kamil] [Pending] Przerobić w Draw.io Paper Browser i wrzucić na GitHub poprawiona wersje
+
+**ToDo zrobione:** 
+
+* 14.04.2015-5 [Rafał] [Done] Wysłać Oficialne Pismo z prośbą do Panstwowej Komisji Wyborczej o udostepnienie ok 27500 namiarów na Obwodowe Komisje Wyborcze na najbliższe wybory Prezydenckie 2015 w trybie informacji jawno-publicznej - Plik CSV ( gmina, teryt, lokal, adres, Nr komisji w gminie, ilośc uprawnionych do głosowania )
+* 20.04.2015-7 [Rafał] [Done] Zdefiniować Tablice Trello z taskami + ustawienie kontrybutorów
+* 20.04.2015-9 [Wojtek] [Done] Zaincijować Setup/Start projektu w katalogu Android
+* 20.04-2015-10 [Rafał] [Done] Przygotować graficzne pliki aplikacji wraz z info o kolorach w Hex RGB 
+* 20.04-2015-11 [Michał] [Done] Przygotowanie/Rozeznanie bibliotek i Best Practise do wykorzystania w projekcie
+
 
 
 ##20.04.2015 19:00
@@ -42,9 +75,9 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 20.04.2015-7 [Rafał] [Pending] Zdefiniować Tablice Trello z taskami + ustawienie kontrybutorów
 * 20.04.2015-9 [Wojtek] [New] Zaincijować Setup/Start projektu w katalogu Android
 * 20.04-2015-10 [Rafał] [New] Przygotować graficzne pliki aplikacji wraz z info o kolorach w Hex RGB 
-* 20.04-2015 [Michał] [New] Przygotowanie/Rozeznanie bibliotek i Best Practise do wykorzystania w projekcie
-* 20.04-2015 [All] [Pending] Przepatrzyć i zwalidować User Stories 
-* 20.04-2015 [Kamil] [New] Przerobić w Draw.io Paper Browser i wrzucić na GitHub poprawiona wersje
+* 20.04-2015-11 [Michał] [New] Przygotowanie/Rozeznanie bibliotek i Best Practise do wykorzystania w projekcie
+* 20.04-2015-12 [All] [Pending] Przepatrzyć i zwalidować User Stories 
+* 20.04-2015-13 [Kamil] [New] Przerobić w Draw.io Paper Browser i wrzucić na GitHub poprawiona wersje
 
 **ToDo zrobione:** 
 
