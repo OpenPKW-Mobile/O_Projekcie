@@ -20,6 +20,9 @@ W projekcie powitalismy nowych kontrybutorów:
   *  Piotr T - iOS Developer
   *  Dagna - Windows Mobile Developer
 
+
+W trakcie dyskusji ustalilismy:
+
  * Ponownie wróciła sprawa nazwy aplikacji OpenPkW Mobile. Postanowilismy, iż w razie potrzeby nazwa zostanie zmieniona, lecz zajmować się tym obecnie nie bedziemy z racji niskiego priorytetu ww sprawy. Sprawa powróci przed samym releasem aplikacji.
 
  * Omówilismy temat ilości linków na pierwszej stronie w aplikacji. Ustaliliśmy, iż link będzie najprawdopodobniej jeden bądz dwa do/na strone www ( backend ). Na stronie tej zbudujemy jakiś prosty  dashboard graficzny w kwestii Credits,  Polityki prywatnosci, Regulaminu korzystania z Apk oraz samej instrukcji obslugi.  
