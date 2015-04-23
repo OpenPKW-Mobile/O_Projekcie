@@ -19,10 +19,6 @@ W projekcie powitalismy nowych kontrybutorów:
   *  Mariusz  P -   Android, BackEnd Developer
   *  Piotr T - iOS Developer
   *  Dagna - Windows Mobile Developer
-    
-  
-
-  
 
  * Ponownie wróciła sprawa nazwy aplikacji OpenPkW Mobile. Postanowilismy, iż w razie potrzeby nazwa zostanie zmieniona, lecz zajmować się tym obecnie nie bedziemy z racji niskiego priorytetu ww sprawy. Sprawa powróci przed samym releasem aplikacji.
 
