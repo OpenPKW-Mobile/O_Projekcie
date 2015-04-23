@@ -19,12 +19,16 @@ W projekcie powitalismy nowych kontrybutorów:
   *  Mariusz  P -   Android, BackEnd Developer
   *  Piotr T - iOS Developer
   *  Dagna - Windows Mobile Developer
+    
   
-Ponownie wróciła sprawa nazwy aplikacji OpenPkW Mobile. Postanowilismy, iż w razie potrzeby nazwa zostanie zmieniona, lecz zajmować się tym obecnie nie bedziemy z racji niskiego priorytetu ww sprawy. Sprawa powróci przed samym releasem aplikacji.
 
-Omówilismy temat ilości linków na pierwszej stronie w aplikacji. Ustaliliśmy, iż link będzie najprawdopodobniej jeden bądz dwa do/na strone www ( backend ). Na stronie tej zbudujemy jakiś prosty  dashboard graficzny w kwestii Credits,  Polityki prywatnosci, Regulaminu korzystania z Apk oraz samej instrukcji obslugi.  
+  
 
-Zdecydowaliśmy, iż bedziemy tworzyć system rozproszony: część danych liczbowych z protokołu wyborczego przekazywana bedzie do jednego serwera za pomocą API, zdjecia natomiast do drugiego całkiem innego z częścią API które sami będziemy tworzyć. 
+ * Ponownie wróciła sprawa nazwy aplikacji OpenPkW Mobile. Postanowilismy, iż w razie potrzeby nazwa zostanie zmieniona, lecz zajmować się tym obecnie nie bedziemy z racji niskiego priorytetu ww sprawy. Sprawa powróci przed samym releasem aplikacji.
+
+ * Omówilismy temat ilości linków na pierwszej stronie w aplikacji. Ustaliliśmy, iż link będzie najprawdopodobniej jeden bądz dwa do/na strone www ( backend ). Na stronie tej zbudujemy jakiś prosty  dashboard graficzny w kwestii Credits,  Polityki prywatnosci, Regulaminu korzystania z Apk oraz samej instrukcji obslugi.  
+
+ * Zdecydowaliśmy, iż bedziemy tworzyć system rozproszony: część danych liczbowych z protokołu wyborczego przekazywana bedzie do jednego serwera za pomocą API, zdjecia natomiast do drugiego całkiem innego z częścią API które sami będziemy tworzyć. 
 
 ## Aktualna lista ToDo: 
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
