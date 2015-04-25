@@ -7,20 +7,23 @@ OpenPKW Mobile  w skrócie OPM, to oprogramowanie typu Service Oriented Architec
 główne jej repozytorium zostaje wydzielone do odrębnego pod projektu. Docelowo jednak po zaimplementowaniu pełnej funkcjonalnośći zgodnej z Prawem Polskim  przewiduje się ze repozytorium zostanie włączone w główny nurt OpenPKW. Obecnie OpenPKW Mobile  **tworzy dodatkową funkcjonalność nie sprecycowaną dotychczas przez Panstwową Komisje Wyborczą**.  
  
 
-# Członkowie
+# Członkowie in Alphabetical Order 
 
 | Członek  | Rola  |
 | ------------- | ------------- |
 |Dagna_S | Developer WindowsPhone|
 |Kamil_S | Developer Android  |
 |Marcin_N | Developer Tester Android  |
+|Mariusz P | Developer Android  |
 |Mariusz_W | Developer WindowsPhone|
 |Michal_U | Developer Android  |
+|Piotr T | Developer Android  |
 |Przemek_J | Weryfikacja, Analiza  |
 |Radek_M | Developer Windows Phone  |
 |Rafal_R | Architektura, Organizacja  |
 |Robert_P  |Weryfikacja, Analiza   |
 |Wojciech_R | Developer Android  |
+
 
 
 
