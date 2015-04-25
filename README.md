@@ -55,6 +55,7 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 | ------------- | ------------- |
 | Tablica Trello Android | https://trello.com/b/G0qEJ9M5/openpkw-android|
 | Tavblica Trello WindowsPhone |    https://trello.com/b/XlP5rmVb/openpkw-windowsphone|
+| Tavblica Trello WindowsPhone |   https://trello.com/b/lzuEMRP3/openpkw-ios |
 |  Draw.io |    https://www.draw.io  |
 | Dillinger.io  |  http://dillinger.io |
 |  GitHub  |  https://github.com/OpenPKW-Mobile|
