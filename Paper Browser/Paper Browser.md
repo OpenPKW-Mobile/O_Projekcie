@@ -7,7 +7,7 @@ Do modelowania wykorzystujemy aplikacje [draw.io](http://draw.io) która działa
 
 
 ## Linki do diagramów
-* [Paper Browser]
+* [Paper Browser](https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenPKW-mobile%2FO_Projekcie%2Fmaster%2FPaper%2520Browser%2FPaperBrowser_13_04_15.xml)
 
 
 ## Przykład 1: otwarcie pliku 
@@ -15,8 +15,5 @@ Do modelowania wykorzystujemy aplikacje [draw.io](http://draw.io) która działa
 * klikam ESC 
 * popup znika
 * w menu wybieram Plik->Open from->URL 
-* wklejam link do wersji pliku RAW z github np. 
-* 
-
+* wklejam link do wersji pliku RAW z github np. https://raw.githubusercontent.com/OpenPKW-Mobile/O_Projekcie/blob/master/Paper%20Browser/PaperBrowser_13_04_15.xml
 * OK 
-
