@@ -4,7 +4,10 @@
 
 Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **27.04.2015 godz. 19:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
+
+* 27.04.2015.[Rafal] Przesuniecie telekonferencji od 4.05.15 na godzine 20:00 z powodu dluższego dnia :)
 * 14.04.2015.[All] Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego/poprawionego PaperBrowser
+
 
 ##23.04.2015 19:00
 Format: Telekonferencja / Skype  
