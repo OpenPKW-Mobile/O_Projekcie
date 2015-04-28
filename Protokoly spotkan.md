@@ -7,6 +7,7 @@ Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: 
 
 * 27.04.2015.[Rafal] Przesuniecie telekonferencji mobilków od 30.04.15 na godzine **20:00** z powodu dluższego dnia
 * 27.04.2015.[All] Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie ostetecznych uwag do wysłanego/poprawionego PaperBrowser
+* 28.04.2015 [All] Usprawnienie kodowania i przyspieszenie prac developerskich
  
 
 ##27.04.2015 19:00
