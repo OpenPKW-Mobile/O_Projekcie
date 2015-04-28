@@ -5,9 +5,44 @@
 Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **27.04.2015 godz. 19:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
 
-* 27.04.2015.[Rafal] Przesuniecie telekonferencji od 4.05.15 na godzine 20:00 z powodu dluższego dnia :)
-* 14.04.2015.[All] Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie uwag do wysłanego/poprawionego PaperBrowser
+* 27.04.2015.[Rafal] Przesuniecie telekonferencji mobilków od 30.04.15 na godzine 20:00 z powodu dluższego dnia
+* 27.04.2015.[All] Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie ostetecznych uwag do wysłanego/poprawionego PaperBrowser
+ 
 
+##27.04.2015 19:00
+Format: Telekonferencja / Skype  
+Czas: 90 min.  
+Obecni: Bartek, Kamil, Mariusz, Piotr,Lukasz, Rafał, Radek 
+
+Odpowiedzialny za protokól: Rafal
+
+**Dyskusja**
+
+W projekcie powitalismy nowych kontrybutorów:
+  *  Łukasz -  iOS Developer
+  *  Bartek - Android, Backend Developer
+  
+W trakcie dyskusji ustalilismy:
+
+ * Przyspieszamy pracę nad samym kodowaniem UI, tak aby użyć w przyszłości powstały kod w aplikacji (pomimo braku API)
+ * W głównej mierze w obecnej chwili wstrzymuje nas brak wyspecyfikowanego API oraz infrastrury BackEnd ----> Patrz Todos nr 14 i 15
+ * Wszyscy zgodnie postanowiłi o przesunięciu  telekonferencji na godzine 20:00 od naszego  następnego spotkania, które ma nastąpić 30.04.15 
+ * W obecnej chwli staramy się przyspieszyć pracę tak aby zdązyć w najblizsze wybory i ich tury
+ * Rafał przejmuje task Kamila odnosnie poprawnienia PaperBrowser. Kamil ma zacząc prace nad kodowaniem i asygnowaniem się do wybranego tasku.
+ 
+
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
+* 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować ostateczne zmiany i innowacje
+* 20.04-2015-12 [Piotr, Lukasz] [Pending] Przepatrzyć i zwalidować User Stories w rozbiciu na taski w trello
+* 27.04.2015-14 [Rafał] [Pending] Poprosić o wystawienie i przekazanie API przez OPW w celu zaczęcia modyfikowania API celem przekazywania zdjęc protokołow wyborczych 
+*  27.04.2015-15 [Rafał] [Pending] Rozpocząc przygotowtwanie do osadzenia systemu  na serwerach i srodowiskach testowych i produkycjnych. 
+ 
+**ToDo zrobione:** 
+* 20.04-2015-13 [Rafał] [Done] Przerobić w Draw.io Paper Browser i wrzucić na GitHub poprawiona wersje
+
+  
 
 ##23.04.2015 19:00
 Format: Telekonferencja / Skype  
