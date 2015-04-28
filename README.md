@@ -11,8 +11,10 @@ główne jej repozytorium zostaje wydzielone do odrębnego pod projektu. Docelow
 
 | Członek  | Rola  |
 | ------------- | ------------- |
+|Bartek | Developer Android, BackEnd |
 |Dagna_S | Developer WindowsPhone|
 |Kamil_S | Developer Android  |
+|Lukasz|  Developer iOs |
 |Marcin_N | Developer Tester Android  |
 |Mariusz P | Developer Android  |
 |Mariusz_W | Developer WindowsPhone|
@@ -23,9 +25,6 @@ główne jej repozytorium zostaje wydzielone do odrębnego pod projektu. Docelow
 |Rafal_R | Architektura, Organizacja  |
 |Robert_P  |Weryfikacja, Analiza   |
 |Wojciech_R | Developer Android  |
-
-
-
 
 
 
@@ -57,8 +56,8 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 | Element  | Link  |
 | ------------- | ------------- |
 | Tablica Trello Android | https://trello.com/b/G0qEJ9M5/openpkw-android|
-| Tavblica Trello WindowsPhone |    https://trello.com/b/XlP5rmVb/openpkw-windowsphone|
-| Tavblica Trello iOS |   https://trello.com/b/lzuEMRP3/openpkw-ios |
+| Tablica Trello WindowsPhone |    https://trello.com/b/XlP5rmVb/openpkw-windowsphone|
+| Tablica Trello iOS |   https://trello.com/b/lzuEMRP3/openpkw-ios |
 |  Draw.io |    https://www.draw.io  |
 | Dillinger.io  |  http://dillinger.io |
 |  GitHub  |  https://github.com/OpenPKW-Mobile|
@@ -133,8 +132,8 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 
 ### Mobile
 1. Android 4.x - Lolipop
-2. Ios 5.xx
-3. WindowsPhone 6.x
+2. Ios 7.xx
+3. WindowsPhone 8.x
 
 
 ### Backend (Przewidziana Architektura)
@@ -158,8 +157,8 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 Plan implementacji:
 
 ### Wersja 0.1 
-* UI - Draw.io Mockup
-* Paper Browser 
+* UI - Draw.io Mockup [Done]
+* Paper Browser [WiP]
 
 ### Wersja 0.2 
 * API Concept
