@@ -4,8 +4,10 @@
 
 Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **30.04.2015 godz. 20:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-
 * 27.04.2015.[Rafal] Przesuniecie telekonferencji mobilków od 30.04.15 na godzine **20:00** z powodu dluższego dnia
+* 30.04.2015 [All] Proszę o zastanowienie się i okreslenie przed Telco co jest potrzebne i niezbędne w celu przspieszenia i zakonczenia prac developerskich dla kazdej z poszczególnej platform nad którą pracujemy dla I bądź/i II tury wyborów w odniesieniu do faz projektu
+* 30.04.2015 [All] Prośba o walidacje przez kogoś Regulaminu korzystania z aplikacji przygotowanego przez naszego Prawnika - plik wysłany na mobilki@openpkw.pl
+* 30.04.2015.[All]  Prosba o Załozenie kont na trello, GitHub oraz mobilki@openpkw.pl oraz bardziej czynnna aktywnośc wszystkich kontrybutorów z konferencji Skype chat OpenPkW na GitHub :) 
 * 27.04.2015.[All] Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie ostetecznych uwag do wysłanego/poprawionego PaperBrowser
 * 28.04.2015 [All] Usprawnienie kodowania i przyspieszenie prac developerskich
  
