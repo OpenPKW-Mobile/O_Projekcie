@@ -7,25 +7,27 @@ OpenPKW Mobile  w skrócie OPM, to oprogramowanie typu Service Oriented Architec
 główne jej repozytorium zostaje wydzielone do odrębnego pod projektu. Docelowo jednak po zaimplementowaniu pełnej funkcjonalnośći zgodnej z Prawem Polskim  przewiduje się ze repozytorium zostanie włączone w główny nurt OpenPKW. Obecnie OpenPKW Mobile  **tworzy dodatkową funkcjonalność nie sprecycowaną dotychczas przez Panstwową Komisje Wyborczą**.  
  
 
-# Członkowie in Alphabetical Order 
+# Członkowie w porzadku alfabetycnzym 
 
 | Członek  | Rola  |
 | ------------- | ------------- |
-|Bartek | Developer Android, BackEnd |
+|Bartek_S | Developer Android, BackEnd |
 |Dagna_S | Developer WindowsPhone|
 |Kamil_S | Developer Android  |
-|Lukasz|  Developer iOs |
+|Lukasz_S|  Developer iOs |
 |Marcin_N | Developer Tester Android  |
-|Mariusz P | Developer Android  |
 |Mariusz_W | Developer WindowsPhone|
+|Mateusz_P | Developer Android,BackEnd  |
 |Michal_U | Developer Android  |
 |Piotr T | Developer Android  |
 |Przemek_J | Weryfikacja, Analiza  |
+|Przemek_K | Developer Android  |
 |Radek_M | Developer Windows Phone  |
+|Rafal_M | Prawnik  |
 |Rafal_R | Architektura, Organizacja  |
 |Robert_P  |Weryfikacja, Analiza   |
+|Slawek_P  |Weryfikacja, Analiza   |
 |Wojciech_R | Developer Android  |
-
 
 
 **Jak do nas dołączyć?**  
@@ -62,7 +64,7 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 | Dillinger.io  |  http://dillinger.io |
 |  GitHub  |  https://github.com/OpenPKW-Mobile|
 |  Mailing List|http://openpkw.pl/mailman/listinfo/mobilki|
-|Wiki/Kontakty|https://github.com/OpenPKW-Mobile/iOS/wiki/The-Team|
+|Wiki / Kontakty|https://github.com/OpenPKW-Mobile/iOS/wiki/The-Team|
 
 
 **Aktualnie poszukujemy!**  
