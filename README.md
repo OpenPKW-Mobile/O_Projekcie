@@ -62,6 +62,7 @@ GitHub: https://github.com/OpenPKW-Mobile/O_Projekcie
 | Dillinger.io  |  http://dillinger.io |
 |  GitHub  |  https://github.com/OpenPKW-Mobile|
 |  Mailing List|http://openpkw.pl/mailman/listinfo/mobilki|
+|Wiki/Kontakty|https://github.com/OpenPKW-Mobile/iOS/wiki/The-Team|
 
 
 **Aktualnie poszukujemy!**  
