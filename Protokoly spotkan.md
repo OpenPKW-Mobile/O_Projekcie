@@ -2,15 +2,50 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **30.04.2015 godz. 20:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **04.05.2015 godz. 20:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-* 27.04.2015.[Rafal] Przesuniecie telekonferencji mobilków od 30.04.15 na godzine **20:00** z powodu dluższego dnia
-* 30.04.2015 [All] Proszę o zastanowienie się i okreslenie przed Telco co jest potrzebne i niezbędne w celu przspieszenia i zakonczenia prac developerskich dla kazdej z poszczególnej platform nad którą pracujemy dla I bądź/i II tury wyborów w odniesieniu do faz projektu
-* 30.04.2015 [All] Prośba o walidacje przez kogoś Regulaminu korzystania z aplikacji przygotowanego przez naszego Prawnika - plik wysłany na mobilki@openpkw.pl
-* 30.04.2015.[All]  Prosba o Załozenie kont na trello, GitHub oraz mobilki@openpkw.pl oraz bardziej czynnna aktywnośc wszystkich kontrybutorów z konferencji Skype chat OpenPkW na GitHub :) 
-* 27.04.2015.[All] Zaprezentowanie dodatkowych wymyślonych przez czlonków zespołu features`ów i usprawnień dla budowanej przez nas App oraz przedstawienie ostetecznych uwag do wysłanego/poprawionego PaperBrowser
-* 28.04.2015 [All] Usprawnienie kodowania i przyspieszenie prac developerskich
+* 02.05.2015.[Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
+* 30.04.2015.[All]  Prośba o założenie kont na Trello, GitHub oraz mobilki@openpkw.pl oraz bardziej czynnna aktywnośc wszystkich kontrybutorów z konferencji Skype chat OpenPkW na GitHub :) 
+* 28.04.2015 [All] Usprawnienie kodowania przyspieszenie prac developerskich i asygnowanie się do tasków na Trello
  
+##30.04.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 90 min.  
+Obecni: Rafał, Bartłomiej, Kamil, Łukasz, Michał, Łukasz, Robert , Radosław , Sławek 
+
+Odpowiedzialny za protokól: Rafal, Kamil
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
+
+* 30.04.2015-16 [Rafał] [Pending] Rewiew Instrukcji Obsługi 
+* 30.04.2015-17 [Rafał] [Pending] Walidacja Regulaminu korzystania z aplikacji przygotowanego przez Prawnika 
+* 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować kolejne zmiany i innowacje
+*  27.04.2015-15 [Rafał] [Pending] Rozpocząc przygotowtwanie do osadzenia systemu  na serwerach i srodowiskach testowych i produkycjnych. 
+
+**ToDo zrobione:** 
+* 20.04-2015-12 [Piotr, Lukasz] [Done] Przepatrzyć i zwalidować User Stories w rozbiciu na taski w trello
+* 27.04.2015-14 [Rafał] [Done] Poprosić o wystawienie i przekazanie API przez OPW w celu zaczęcia modyfikowania API celem przekazywania zdjęc protokołow wyborczych 
+
+**Dyskusja**
+
+W trakcie dyskusji ustalilismy:
+
+* "Co jest potrzebne i niezbędne w celu przspieszenia i zakonczenia prac developerskich"
+ * schemat bazy danych
+ * API / makieta API
+ * serwis danych testowych, serwer testowy
+ * wypracowanie schematu pracy i wspólnych elementów
+ * lepsza komunikacja członków z poszczególnych platform (stworzyć grupy)
+ 
+
+* Robert_P Przekazał uwagi do Papier Browser i zwalidował funkcjonalności. Generalnie aplikacja mu się podoba i jak przekazał jest prosta i prowadzi za rękę użytkownika, co jest bardzo ważne i istotne bo ludzie na wyborach często sie mylą i popełniają proste acz czasami ważkie błędy.  Zważywszy na fakt, iż Robert ma doświadczenie przy pracy w wyborach - takie rozwiązanie i tak skonstruowaną aplikacje rekomendował by do wdrożenia, zważywszy na fakt, że tak skonstruowana aplikacja nie daje możliwości pomyślenia się przez użytkownika przy przepisywaniu danych. Dodatkowa funkcjonalność w postaci zdjęcia uwiarygadnia jeszcze bardziej wprowadzone dane   
+
+* Sławek_S podesłał draft Instrukcji Obsługi  Patrz Todos nr ---> 16
+* Rafał_M podesłał draft regulaminu aplikacji Patrz Todos nr ---> 17
+
+
+
 
 ##27.04.2015 19:00
 Format: Telekonferencja / Skype  
