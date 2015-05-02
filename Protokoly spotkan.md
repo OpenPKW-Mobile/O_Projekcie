@@ -4,6 +4,7 @@
 
 Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **04.05.2015 godz. 20:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
+* 02.05.2015.[Rafal] Walidacja Danych Prezydent 2015. Analiza do przekazania w celu ulatwienia implenetnacji 
 * 02.05.2015.[Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
 * 30.04.2015.[All]  Prośba o założenie kont na Trello, GitHub oraz mobilki@openpkw.pl oraz bardziej czynnna aktywnośc wszystkich kontrybutorów z konferencji Skype chat OpenPkW na GitHub :) 
 * 28.04.2015 [All] Usprawnienie kodowania przyspieszenie prac developerskich i asygnowanie się do tasków na Trello
