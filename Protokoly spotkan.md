@@ -21,7 +21,7 @@ Odpowiedzialny za protokól: Rafal,
 Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
 
 * 04.05.2015[Rafał] Aktualizacja Paper Browser o wskaznik ilość kroków do pokonania przez usera np Krok 1/16
-* 02.05.2015.[Rafal,Przemek] Walidacja Danych Prezydent 2015. Analiza do przekazania w celu ulatwienia implenetnacji 
+* 02.05.2015.[Rafal,Przemek] Walidacja Danych Prezydent 2015. Analiza do przekazania w celu ulatwienia implementacji 
 * 30.04.2015-16 [Rafał,Przemek, Slawek] [Pending] Rewiew Instrukcji Obsługi 
 * 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować kolejne zmiany i innowacje
 *  27.04.2015-15 [Rafał] [Pending] Rozpocząc przygotowtwanie do osadzenia systemu  na serwerach i srodowiskach testowych i produkcyjnych
