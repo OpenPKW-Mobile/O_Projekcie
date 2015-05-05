@@ -4,7 +4,7 @@
 
 Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **08.05.2015 godz. 20:00 (Piątek)**
 
-( Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
+Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
 
 * 02.05.2015.[Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
@@ -22,7 +22,7 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 
 * 04.05.2015[Rafał] Aktualizacja Paper Browser o wskaznik ilość kroków do pokonania przez usera np Krok 1/16
 * 02.05.2015.[Rafal,Przemek] Walidacja Danych Prezydent 2015. Analiza do przekazania w celu ulatwienia implenetnacji 
-* 30.04.2015-16 [Rafał,Przemek] [Pending] Rewiew Instrukcji Obsługi 
+* 30.04.2015-16 [Rafał,Przemek, Slawek] [Pending] Rewiew Instrukcji Obsługi 
 * 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować kolejne zmiany i innowacje
 *  27.04.2015-15 [Rafał] [Pending] Rozpocząc przygotowtwanie do osadzenia systemu  na serwerach i srodowiskach testowych i produkcyjnych
 
