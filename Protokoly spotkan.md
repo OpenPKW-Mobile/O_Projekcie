@@ -2,7 +2,9 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **08.05.2015 godz. 20:00 (Piątek)**( Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **08.05.2015 godz. 20:00 (Piątek)**
+
+( Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
 
 * 02.05.2015.[Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
