@@ -2,13 +2,39 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **04.05.2015 godz. 20:00** Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **08.05.2015 godz. 20:00 (Piątek)**( Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-* 02.05.2015.[Rafal] Walidacja Danych Prezydent 2015. Analiza do przekazania w celu ulatwienia implenetnacji 
+
 * 02.05.2015.[Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
-* 30.04.2015.[All]  Prośba o założenie kont na Trello, GitHub oraz mobilki@openpkw.pl oraz bardziej czynnna aktywnośc wszystkich kontrybutorów z konferencji Skype chat OpenPkW na GitHub :) 
 * 28.04.2015 [All] Usprawnienie kodowania przyspieszenie prac developerskich i asygnowanie się do tasków na Trello
  
+##04.05.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 40 min.  
+Obecni: Przemek, Radek, Łukasz, Michał, Mariusz, Rafał  
+
+Odpowiedzialny za protokól: Rafal,
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
+
+* 04.05.2015[Rafał] Aktualizacja Paper Browser o wskaznik ilość kroków do pokonania przez usera np Krok 1/16
+* 02.05.2015.[Rafal,Przemek] Walidacja Danych Prezydent 2015. Analiza do przekazania w celu ulatwienia implenetnacji 
+* 30.04.2015-16 [Rafał,Przemek] [Pending] Rewiew Instrukcji Obsługi 
+* 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować kolejne zmiany i innowacje
+*  27.04.2015-15 [Rafał] [Pending] Rozpocząc przygotowtwanie do osadzenia systemu  na serwerach i srodowiskach testowych i produkcyjnych
+
+**ToDo zrobione:** 
+* 30.04.2015-17 [Rafał] [Done] Walidacja Regulaminu korzystania z aplikacji przygotowanego przez Prawnika 
+
+**Dyskusja**
+
+W trakcie dyskusji ustalilismy:
+
+* Dodamy do aplikacji dla użytkownków wskaznik ilośći kroków pokonanych/ do pokonania w procesie ( numerowanie stron )
+* Wstępnie omówilimy pomysł na otrzymanie zdjęć w postaci załączników w mail z klientów mobilnych za pomocą maili użytkowników.  Wszytscy wspólnie uznaliśmy, iż taka architektura ma wiele wad i jesli powstanie to tylko wtedy gdy zabraknie innych alternatyw.
+
+
 ##30.04.2015 20:00
 Format: Telekonferencja / Skype  
 Czas: 90 min.  
@@ -22,7 +48,7 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 30.04.2015-16 [Rafał] [Pending] Rewiew Instrukcji Obsługi 
 * 30.04.2015-17 [Rafał] [Pending] Walidacja Regulaminu korzystania z aplikacji przygotowanego przez Prawnika 
 * 14.04.2015-2 [All] [Pending] Przemysleć koncepcje Paper Browser - Zaproponować kolejne zmiany i innowacje
-*  27.04.2015-15 [Rafał] [Pending] Rozpocząc przygotowtwanie do osadzenia systemu  na serwerach i srodowiskach testowych i produkycjnych. 
+*  27.04.2015-15 [Rafał] [Pending] Rozpocząc przygotowtwanie do osadzenia systemu  na serwerach i srodowiskach testowych i produkcyjnych
 
 **ToDo zrobione:** 
 * 20.04-2015-12 [Piotr, Lukasz] [Done] Przepatrzyć i zwalidować User Stories w rozbiciu na taski w trello
