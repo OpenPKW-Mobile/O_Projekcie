@@ -38,6 +38,7 @@ Jest to lista minimalnych wymagań by obsłużyć nadchodzące wybory
 * OPM-U-18 : Jako użytkownik dostaje komunikat o poprawnym przesłaniu danych na serwer bądz też kłopotach z tym związanych
 *  OPM-U-19 : Jako użytkownik dostaje podziekowania za wysłanie danych w postaci komunikatu i przyjemnej animacji GIF
 * OPM-U-20 : Jako użytkownik mogę zamknąc aplikacje bądź wybrać kolejną komisje dla której chce przekazać dane
+* OPM-U-28 : Jako użytkownik widzę na każdej stronie aplikacji textowe info dotyczące miejsca w którym sie obecnie znajduje w całym procesie przekazywania danych
 
 ## Wariant rozszerzony
 Jest to lista maximum wymagań by obsłużyć nadchodzące wybory
@@ -55,11 +56,3 @@ Jest to lista docelowa wymagań by obsłużyć  w  przyszlosci wybory prezydenck
 * OPM-U-25: Jako użytkownik mam możliwość autentyfikacji i potwierdzenia swojej osoby w postaci certyfikatów autentyfikujących
 * OPM-U-26: Jako użytkownik mam możliwość przesyłania danych w pełni bezpiecznie za pomocą enkryptowanego protokołu np TSL
 * OPM-U-27: Jako użytkownik i dla mojej wygody wszelkie informacje z protokołu wyborczego przekazywane będą do serwera w postaci automatycznej za pomocą OCR bądz kod QR
-
-
-
-
-
-
-
-
