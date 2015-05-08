@@ -6,6 +6,7 @@ Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: 
 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
+* 08.05.2015 [Rafał] Omówienie PaperBrowser_08.05.15
 * 08.05.2015 [Rafał] Mobile view www via apk
 * 08.05.2015 [Rafał] Taski OPM-U-21, OPM-U-24 ----> Wariant podstawowy
 * 08.05.2015 [Rafał] Jak zaimplementować OPM-U-28 w postaci samego textu? 
