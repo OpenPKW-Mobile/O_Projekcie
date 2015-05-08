@@ -6,9 +6,10 @@ Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: 
 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
+* 08.05.2015 [Rafał] Taski OPM-U-21, OPM-U-24 ----> Wariant podstawowy
+* 08.05.2015 [Rafał] Jak zaimplementować OPM-U-28 w postaci samego textu? 
+* 02.05.2015 [Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
 
-* 02.05.2015.[Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
-* 28.04.2015 [All] Usprawnienie kodowania przyspieszenie prac developerskich i asygnowanie się do tasków na Trello
  
 ##04.05.2015 20:00
 Format: Telekonferencja / Skype  
