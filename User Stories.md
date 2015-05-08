@@ -33,28 +33,28 @@ Jest to lista minimalnych wymagań by obsłużyć nadchodzące wybory
 * OPM-U-13 :  Jako użytkownik mam możliwość zweryfikowania i podgladu zrobionego zdjęcia każdej strony protokołu wyborczego tak aby było ostre, wyraźne i wykadrowane
 * OPM-U-14 : Jako użytkownik nawiguję po aplikacji za pomocą buttonów ( przycisków )
 * OPM-U-15 :Jako użytkownik dostaje podgląd zdjęc protokołu wyborczego w postaci posortowanych Thumbals, które zamierzam wysłać
-* OPM-U-15 : Jako użytkownik mam możliwość uploadowania na serwer danych liczbowych z protokołu wyborczego oraz wykonanych przeze mnie zdjęc samego protokołu
-* OPM-U-16 : Jako użytkownik widzę w postaci ProgressBar - czas uploadowania danych wyborczych i zdjęć do serwera 
-* OPM-U-17 : Jako użytkownik dostaje komunikat o poprawnym przesłaniu danych na serwer bądz też kłopotach z tym związanych
-*  OPM-U-18 : Jako użytkownik dostaje podziekowania za wysłanie danych w postaci komunikatu i przyjemnej animacji GIF
-* OPM-U-19 : Jako użytkownik mogę zamknąc aplikacje bądź wybrać kolejną komisje dla której chce przekazać dane
+* OPM-U-16 : Jako użytkownik mam możliwość uploadowania na serwer danych liczbowych z protokołu wyborczego oraz wykonanych przeze mnie zdjęc samego protokołu
+* OPM-U-17 : Jako użytkownik widzę w postaci ProgressBar - czas uploadowania danych wyborczych i zdjęć do serwera 
+* OPM-U-18 : Jako użytkownik dostaje komunikat o poprawnym przesłaniu danych na serwer bądz też kłopotach z tym związanych
+*  OPM-U-19 : Jako użytkownik dostaje podziekowania za wysłanie danych w postaci komunikatu i przyjemnej animacji GIF
+* OPM-U-20 : Jako użytkownik mogę zamknąc aplikacje bądź wybrać kolejną komisje dla której chce przekazać dane
 
 ## Wariant rozszerzony
 Jest to lista maximum wymagań by obsłużyć nadchodzące wybory
-* OPW-U-20 : Jako użytkownik mam możliwość zarejestrowania się po przez aplikacje.  Podając
- * imie.nazwisko
+* OPW-U-21 : Jako użytkownik mam możliwość zarejestrowania się po przez aplikacje.  Podając
+ * imie
+ * nazwisko
  * mail
- * kod pocztowy
- * nr komisji w danej gminie ( wybrane z listy scroll i wyswietlone za pomocą geopozycjonowania GPS )
-* OPW-U-21 : Jako użytkownik mam możliwość z pozycji samej aplikacji do uaktualnienia/dodawania do listy komisji - ich numerów w danej lokalizacji, ustalanej za pomocą GPS 
-* OPW-U-22 : Numery komisji wyborczych z danych lokazliacji ustalanych za pomocą GPS wyswietlają się w postaci scroll listy - obciętej do 8 pozycji i w zasięgu np do 10 km od lokalizacji telefonu 
-*  OPW-U-23: Jako użytkownik i dla mojej wygody zostanie wprowadzona funkcja - Zapisz i wyslij zdjęcia póżniej w sposób wpelni automatyczny podczas braku połączenie I-net
+
+* OPW-U-22 : Jako użytkownik mam możliwość z pozycji samej aplikacji do uaktualnienia/dodawania do listy komisji - ich numerów w danej lokalizacji, ustalanej za pomocą GPS 
+* OPW-U-23 : Numery komisji wyborczych z danych lokazliacji ustalanych za pomocą GPS wyswietlają się w postaci scroll listy - obciętej do 8 pozycji i w zasięgu np do 10 km od lokalizacji telefonu 
+*  OPW-U-24: Jako użytkownik i dla mojej wygody zostanie wprowadzona funkcja - Zapisz i wyslij zdjęcia póżniej w sposób wpelni automatyczny podczas braku połączenie I-net
 
 ## Wariant docelowy
 Jest to lista docelowa wymagań by obsłużyć  w  przyszlosci wybory prezydenckie zgodnie z ordynacja wyborczą i wszystkimi uchwalami PKW
-* OPW-U-25: Jako użytkownik mam możliwość autentyfikacji i potwierdzenia swojej osoby w postaci certyfikatów autentyfikujących
-* OPW-U-26: Jako użytkownik mam możliwość przesyłania danych w pełni bezpiecznie za pomocą enkryptowanego protokołu np TSL
-* OPW-U-27: Jako użytkownik i dla mojej wygody wszelkie informacje z protokołu wyborczego przekazywane będą do serwera w postaci automatycznej za pomocą OCR bądz kod QR
+* OPM-U-25: Jako użytkownik mam możliwość autentyfikacji i potwierdzenia swojej osoby w postaci certyfikatów autentyfikujących
+* OPM-U-26: Jako użytkownik mam możliwość przesyłania danych w pełni bezpiecznie za pomocą enkryptowanego protokołu np TSL
+* OPM-U-27: Jako użytkownik i dla mojej wygody wszelkie informacje z protokołu wyborczego przekazywane będą do serwera w postaci automatycznej za pomocą OCR bądz kod QR
 
 
 
