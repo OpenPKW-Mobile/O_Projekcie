@@ -44,9 +44,9 @@ Jest to lista minimalnych wymagań by obsłużyć nadchodzące wybory
  * mail
 *  OPM-U-24: Jako użytkownik i dla mojej wygody zostanie wprowadzona funkcja - Zapisz i wyślij zdjęcia  póżniej - w sposób wpełni automatyczny podczas braku połączenia I-net
 * OPM-U-28 : Jako użytkownik widzę na każdej stronie aplikacji textowe info dotyczące miejsca w którym sie obecnie znajduje w całym procesie przekazywania danych
-* OPM-U-29 : Jako użytkownik po wpisaniu kodu pocztowego i/lub nr komisji wyborczej uzyskam posortowaną listę z wszytskimi komisjami w obrębie danego kodu pocztowego. W przypadku wpisania dodatkowo oprócz kodu pocztowego nr komisji - otrzymam dokładnie te jedną komisje
+* OPM-U-29 : Jako użytkownik po wpisaniu Kodu Terytorialnego Gminy (KOD TERYT) wyswietli mi się unikalną pojedyncza komisja z której będe przekazywał dane.   
 * OPM-U-30 : Google Analitycs
-* OPM-U-31 : Fabric
+* OPM-U-30 : Fabric
 
 ## Wariant rozszerzony
 Jest to lista maximum wymagań by obsłużyć nadchodzące wybory
