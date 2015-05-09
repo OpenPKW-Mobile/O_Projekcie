@@ -6,13 +6,13 @@ Do modelowania wykorzystujemy aplikacje [draw.io](http://draw.io) która działa
   * 10 Tips (5min) https://www.youtube.com/watch?v=hxTTQJ5a-zI
 
 
-## Przykład 1: otwarcie pliku 
+##Otwarcie pliku 
 * klikam ponizej przekazany link do Paper Browser
 * klikam OK - przy File not found  
 * popup znika
 * Wybieram z  Dostepnych Opcji Device  
 * Naciskamy Open existing File
-* Wskazujemy sciezke do pliku na naszym urzdzeniu wskazujc go    
+* Wskazujemy sciezke do pliku na naszym komputerze    
 * Naciskamy OK 
 * Plik sie otwiera
 
