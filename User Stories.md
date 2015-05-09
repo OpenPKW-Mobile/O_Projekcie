@@ -38,18 +38,22 @@ Jest to lista minimalnych wymagań by obsłużyć nadchodzące wybory
 * OPM-U-18 : Jako użytkownik dostaje komunikat o poprawnym przesłaniu danych na serwer bądz też kłopotach z tym związanych
 *  OPM-U-19 : Jako użytkownik dostaje podziekowania za wysłanie danych w postaci komunikatu i przyjemnej animacji GIF
 * OPM-U-20 : Jako użytkownik mogę zamknąc aplikacje bądź wybrać kolejną komisje dla której chce przekazać dane
-* OPM-U-28 : Jako użytkownik widzę na każdej stronie aplikacji textowe info dotyczące miejsca w którym sie obecnie znajduje w całym procesie przekazywania danych
-
-## Wariant rozszerzony
-Jest to lista maximum wymagań by obsłużyć nadchodzące wybory
 * OPW-U-21 : Jako użytkownik mam możliwość zarejestrowania się po przez aplikacje.  Podając
  * imie
  * nazwisko
  * mail
+*  OPM-U-24: Jako użytkownik i dla mojej wygody zostanie wprowadzona funkcja - Zapisz i wyślij zdjęcia  póżniej - w sposób wpełni automatyczny podczas braku połączenia I-net
+* OPM-U-28 : Jako użytkownik widzę na każdej stronie aplikacji textowe info dotyczące miejsca w którym sie obecnie znajduje w całym procesie przekazywania danych
+* OPM-U-29 : Jako użytkownik po wpisaniu kodu pocztowego i/lub nr komisji wyborczej uzyskam posortowaną listę z wszytskimi komisjami w obrębie danego kodu pocztowego. W przypadku wpisania dodatkowo oprócz kodu pocztowego nr komisji - otrzymam dokładnie te jedną komisje
+* OPM-U-30 : Google Analitycs
+* OPM-U-30 : Fabric
 
-* OPW-U-22 : Jako użytkownik mam możliwość z pozycji samej aplikacji do uaktualnienia/dodawania do listy komisji - ich numerów w danej lokalizacji, ustalanej za pomocą GPS 
-* OPW-U-23 : Numery komisji wyborczych z danych lokazliacji ustalanych za pomocą GPS wyswietlają się w postaci scroll listy - obciętej do 8 pozycji i w zasięgu np do 10 km od lokalizacji telefonu 
-*  OPW-U-24: Jako użytkownik i dla mojej wygody zostanie wprowadzona funkcja - Zapisz i wyslij zdjęcia póżniej w sposób wpelni automatyczny podczas braku połączenie I-net
+## Wariant rozszerzony
+Jest to lista maximum wymagań by obsłużyć nadchodzące wybory
+
+* OPM-U-22 : Jako użytkownik mam możliwość z pozycji samej aplikacji do uaktualnienia/dodawania do listy komisji - ich numerów w danej lokalizacji, ustalanej za pomocą GPS 
+* OPM-U-23 :Numery komisji wyborczych z danych lokazliacji ustalanych za pomocą GPS wyswietlają się w postaci scroll listy - obciętej do 8 pozycji i w zasięgu np do 10 km od lokalizacji telefonu 
+
 
 ## Wariant docelowy
 Jest to lista docelowa wymagań by obsłużyć  w  przyszlosci wybory prezydenckie zgodnie z ordynacja wyborczą i wszystkimi uchwalami PKW
