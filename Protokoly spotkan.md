@@ -2,15 +2,53 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **08.05.2015 godz. 20:00 (Piątek)**
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **11.05.2015 godz. 20:00 (Poniedziałek)** 
 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-* 08.05.2015 [Rafał] Omówienie PaperBrowser_08.05.15
-* 08.05.2015 [Rafał] Mobile view www via apk
-* 08.05.2015 [Rafał] Taski OPM-U-21, OPM-U-24 ----> Wariant podstawowy
-* 08.05.2015 [Rafał] Jak zaimplementować OPM-U-28 w postaci samego textu? 
 * 02.05.2015 [Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
+
+##08.05.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 100 min.  
+Obecni: MichałU, Łukasz, MichałK, Sławek, Robert, Rafał, Przemek, Radek  
+
+Odpowiedzialny za protokól: Rafal
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**. 
+
+
+
+* 08.05-2015-18[Marzena] [Pending] Strona www
+* 08.05-2015-19[All] [Pending] Wrzucić do przekazanego linku Google Drive - Nasze Zdjęcia Buziek
+* 08.05-2015-20 [All,Rafał] [Pending] Wysatwić taski OPM-U21, OPM-U-24,  OPM-U-28, OPM-U-29,OPM-U-30, OPM-U-31 w User Stories. Wszystkich developerów uprasza sie o załozenie tasków na twoich tablicach trello
+* 30.04.2015-16 [Slawek] [Pending] Texty do filmiku instrukcji
+* 14.04.2015-2 [Rafał] [Pending] Aktualizacja Paper Browser - Zaproponować ostateczne zmiany i innowacje
+*  27.04.2015-15 [Rafał] [Pending] Rozpocząc przygotowtwanie do osadzenia systemu na serwerach i srodowiskach testowych i produkcyjnych
+
+
+**ToDo zrobione:** 
+* 04.05.2015[Rafał] Aktualizacja Paper Browser o wskaznik ilość kroków do pokonania przez usera np Krok 1/16
+* 02.05.2015.[Rafal,Przemek] Walidacja Danych Prezydent 2015. Analiza do przekazania w celu ulatwienia implementacji
+
+
+**Dyskusja**
+
+W trakcie dyskusji ustalilismy:
+
+* Omówilismy PaperBrowser_08.05.15 czego wynikiem jest uproszczenie aplikacji w taki sposób, ze użytkownik będzie miał przypisaną tylko jedną komisje wyborczą do siebie. Jesli bedzie chciał przekazać dane z kolejnej komisji - będzie mógł to zrobić po ponownym zalogowaniu się i przejściu całego procesu przewidzianego w aplikacji. Decyzja  ta jest rezulatatem buzliwej dyskusji, której merytoryczne aspekty przeważyły za wprowadzeniem takiego uproszcznia 
+ * Oszacowalismy iż tylko 3% uzytkowników bedzie chciało przesłać dane z wiecej niż jednej komisji czyli w skali kraju tylko ok 800 osób
+ * Przekazywanie danych z wielu komisji w trakcie jednego zapętplonego procesu niepotrzebnie zwiększa stopień skomplikowania aplikacji czego rezultatem może być zbyteczne dezorientowanie użytkowników. A że oszacowalismy, iż bedzie ich tylko 800 to zrezygnowaliśmy narazie z rozwiązania przekazywania danych z wielu komisji w trakcie zapętlonego jednego procesu
+ 
+*  Poruszylismy też temat www. Ustaliliśmy, iż strona bedzie sie otwierała w trybie "WebView" za pomocą wewnetrzne domyślnej przeglądarki telefonu z pozycji aplikacji.
+*  Offlinowo zostało ustalone, że za stronę i jej tworzenie odpowiadać będzie Marzena ----> Patrz Todos nr 08.05-2015-18[Marzena]
+*  Dodatkowo wszyscy stwierdzili, iż najlepszym pomysłem na instrukcje obsługi będzie nakręcenie krótkiego filmiku wraz z dodanym textem do niego i umieszczenie na stronie www ----> Patrz Todos nr 30.04.2015-16 [Slawek]
+*  Ustaliliśmy także, iż wszystkie lokale wyborcze i ich adresy zostaną zaszyte po stronie klienta w telefonie, docelowo i jesli starczy czasu na wdrożenie to po stronie Serwera. Patrz Todos nr 08.05-2015-20 [All,Rafał]
+*  Wszyscy zgodnie stwierdzili, iż zapisywanie zdjęc ma następować obligatoryjnie do pamieci telefonu
+*  Taski OPM-U-21(logowanie),  OPM-U-24(zapis zdjec), OPM-U-28(kroki użytkownika), OPM-U-29(lokale wyborcze w tel), OPM-U-30(Google Analytics), OPM-U-31(Fabric) ---->  Przechodzą do Wariantu podstawego i rozpoczyna się proces ich implementacji
+
+
 
  
 ##04.05.2015 20:00
