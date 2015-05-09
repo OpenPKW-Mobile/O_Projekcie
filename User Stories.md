@@ -46,7 +46,7 @@ Jest to lista minimalnych wymagań by obsłużyć nadchodzące wybory
 * OPM-U-28 : Jako użytkownik widzę na każdej stronie aplikacji textowe info dotyczące miejsca w którym sie obecnie znajduje w całym procesie przekazywania danych
 * OPM-U-29 : Jako użytkownik po wpisaniu Kodu Terytorialnego Gminy (KOD TERYT) wyswietli mi się unikalna pojedyncza komisja z której będe przekazywał dane  
 * OPM-U-30 : Google Analitycs
-* OPM-U-30 : Fabric
+* OPM-U-31 : Fabric
 
 ## Wariant rozszerzony
 Jest to lista maximum wymagań by obsłużyć nadchodzące wybory
