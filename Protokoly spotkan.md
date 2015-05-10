@@ -7,6 +7,7 @@ Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
 * 02.05.2015 [Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
+* 10.05.2015 [Mariusz] Przedyskutowanie metody przekazania zdjęcia protokołu do API - zgodność z REST. Propozcja: HTTP/POST, multipart/form-data: - zdjęcie + pkwId i username.
 
 ##08.05.2015 20:00
 Format: Telekonferencja / Skype  
