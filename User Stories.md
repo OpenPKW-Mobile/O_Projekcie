@@ -44,7 +44,7 @@ Jest to lista minimalnych wymagań by obsłużyć nadchodzące wybory
  * mail
 *  OPM-U-24: Jako użytkownik i dla mojej wygody zostanie wprowadzona funkcja - Zapisz i wyślij zdjęcia  póżniej - w sposób wpełni automatyczny podczas braku połączenia I-net
 * OPM-U-28 : Jako użytkownik widzę na każdej stronie aplikacji textowe info dotyczące miejsca w którym sie obecnie znajduje w całym procesie przekazywania danych
-* OPM-U-29 : Jako użytkownik po wpisaniu Kodu Terytorialnego Gminy (KOD TERYT) wyswietli mi się unikalna pojedyncza komisja z której będe przekazywał dane  
+* OPM-U-29 : OPM-U-29 : Jako użytkownik po wpisaniu Kodu Terytorialnego Gminy (KOD TERYT) i  nr Obwodu wyświetli mi się unikalna pojedyncza komisja z której będę przekazywał dane 
 * OPM-U-30 : Google Analitycs
 * OPM-U-31 : Fabric
 
