@@ -12,14 +12,18 @@ główne jej repozytorium zostaje wydzielone do odrębnego pod projektu. Docelow
 | Członek  | Rola  |
 | ------------- | ------------- |
 |Bartek_S | Developer Android, BackEnd |
-|Dagna_S | Developer WindowsPhone|
+|Dagna_S | Developer Windows Phone|
 |Kamil_S | Developer Android  |
 |Lukasz_S|  Developer iOs |
 |Marcin_N | Developer Tester Android  |
-|Mariusz_W | Developer WindowsPhone|
+|Mariusz_W | Developer Windows Phone|
+|Marzeba Zasinksa-Igła | Media, www|
+|Mateusz_A | Developer Windows Phone  |
+|Mateusz_J | Developer iOs |
 |Mateusz_P | Developer Android,BackEnd  |
 |Michal_U | Developer Android  |
-|Piotr T | Developer Android  |
+|Michal_K | Developer Android  |
+|Piotr T | Developer iOs  |
 |Przemek_J | Weryfikacja, Analiza  |
 |Przemek_K | Developer Android  |
 |Radek_M | Developer Windows Phone  |
