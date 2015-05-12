@@ -21,7 +21,7 @@ Jest to lista minimalnych wymagań by obsłużyć nadchodzące wybory
 * OPM-U-1 : Jako użytkownik na stronie tytułowej widzę Logo (OpenPKW) oraz link do polityki prywatnośći i zasad korzystania z aplikacji wraz z informacją o akceptacji ww. jesli chce korzystac z Apk 
 * OPM-U-2 : Jako użytkownik mogę się zalogować do aplikacji przy pomocy loginu i hasła otrzymanego od Administratora w postaci maila wraz z dalszymi komunikatami
 * OPM-U-3 : Jako użytkownik mogę z pozycji aplikacji poprosić o przypomnienie hasła w postaci maila
-*  OPM-U-4 : Jako użytkownik widzę w górnej częsci ekranu komunikat dotyczący Komisji Wyborczej do której jestem przypisany  a i z której będe przekazywał dane liczbowe i zdjęcia 
+*  OPM-U-4 : Jako użytkownik widzę w górnej częsci ekrany komunikat dotyczący Komisji Wyborczej do której jestem przypisany i z której będe przekazywał dane liczbowe i zdjęcia 
 *  OPM-U-7 : Jako użytkownik widzę po wybraniu danej komisji w górnej częsci ekranu informacje: Detaliczne dane komisji tj nr, nr,teryt, Nazwa, Adres. A ponizej Uproszczony formularz liczb wyborczych oraz Listę kandydatów ( scroll list )
 * OPM-U-8 : Jako użytkownik otrzymuje automatycznie listę kandydatów biorących udział w I jak i II turze wyborów (API). Uproszczony Formularz liczb wyborczych nie zmienia się
 * OPM-U-9 : Jako użytkownik mogę zmienić/wybrać inną komisje po przez nacisnęcie przycisku "INNA KOMISJA"
