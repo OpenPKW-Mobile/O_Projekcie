@@ -21,9 +21,7 @@ Jest to lista minimalnych wymagań by obsłużyć nadchodzące wybory
 * OPM-U-1 : Jako użytkownik na stronie tytułowej widzę Logo (OpenPKW) oraz link do polityki prywatnośći i zasad korzystania z aplikacji wraz z informacją o akceptacji ww. jesli chce korzystac z Apk 
 * OPM-U-2 : Jako użytkownik mogę się zalogować do aplikacji przy pomocy loginu i hasła otrzymanego od Administratora w postaci maila wraz z dalszymi komunikatami
 * OPM-U-3 : Jako użytkownik mogę z pozycji aplikacji poprosić o przypomnienie hasła w postaci maila
-*  OPM-U-4 : Jako użytkownik widzę w górnej częsci ekrany komunikat dotyczący List Wyborczych do których jestem przypisany  a takze z której tury wyborów będę przekazywał dane liczbowe i zdjęcia 
-* OPM-U-5 : Jako użytkownik widzę po zalogowaniu się listę moich komisji obwodowych do, których jestem automatycznie przypisany ( lista scroll )
-* OPM-U-6 : Jako użytkownik mogę wybrać i zaznaczyć z listy komisję z, której będę przekazywał dane liczbowe i zdjęcia ( opcja wyboru komisji check box )
+*  OPM-U-4 : Jako użytkownik widzę w górnej częsci ekranu komunikat dotyczący Komisji Wyborczej do której jestem przypisany  a i z której będe przekazywał dane liczbowe i zdjęcia 
 *  OPM-U-7 : Jako użytkownik widzę po wybraniu danej komisji w górnej częsci ekranu informacje: Detaliczne dane komisji tj nr, nr,teryt, Nazwa, Adres. A ponizej Uproszczony formularz liczb wyborczych oraz Listę kandydatów ( scroll list )
 * OPM-U-8 : Jako użytkownik otrzymuje automatycznie listę kandydatów biorących udział w I jak i II turze wyborów (API). Uproszczony Formularz liczb wyborczych nie zmienia się
 * OPM-U-9 : Jako użytkownik mogę zmienić/wybrać inną komisje po przez nacisnęcie przycisku "INNA KOMISJA"
@@ -60,3 +58,5 @@ Jest to lista docelowa wymagań by obsłużyć  w  przyszlosci wybory prezydenck
 * OPM-U-25: Jako użytkownik mam możliwość autentyfikacji i potwierdzenia swojej osoby w postaci certyfikatów autentyfikujących
 * OPM-U-26: Jako użytkownik mam możliwość przesyłania danych w pełni bezpiecznie za pomocą enkryptowanego protokołu np TSL
 * OPM-U-27: Jako użytkownik i dla mojej wygody wszelkie informacje z protokołu wyborczego przekazywane będą do serwera w postaci automatycznej za pomocą OCR bądz kod QR
+ OPM-U-5 : Jako użytkownik widzę po zalogowaniu się listę moich komisji obwodowych do, których jestem automatycznie przypisany ( lista scroll )
+* OPM-U-6 : Jako użytkownik mogę wybrać i zaznaczyć z listy komisję z, której będę przekazywał dane liczbowe i zdjęcia ( opcja wyboru komisji check box )
