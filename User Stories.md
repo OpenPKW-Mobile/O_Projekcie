@@ -58,5 +58,5 @@ Jest to lista docelowa wymagań by obsłużyć  w  przyszlosci wybory prezydenck
 * OPM-U-25: Jako użytkownik mam możliwość autentyfikacji i potwierdzenia swojej osoby w postaci certyfikatów autentyfikujących
 * OPM-U-26: Jako użytkownik mam możliwość przesyłania danych w pełni bezpiecznie za pomocą enkryptowanego protokołu np TSL
 * OPM-U-27: Jako użytkownik i dla mojej wygody wszelkie informacje z protokołu wyborczego przekazywane będą do serwera w postaci automatycznej za pomocą OCR bądz kod QR
- OPM-U-5 : Jako użytkownik widzę po zalogowaniu się listę moich komisji obwodowych do, których jestem automatycznie przypisany ( lista scroll )
+* OPM-U-5 : Jako użytkownik widzę po zalogowaniu się listę moich komisji obwodowych do, których jestem automatycznie przypisany ( lista scroll )
 * OPM-U-6 : Jako użytkownik mogę wybrać i zaznaczyć z listy komisję z, której będę przekazywał dane liczbowe i zdjęcia ( opcja wyboru komisji check box )
