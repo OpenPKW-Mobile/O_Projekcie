@@ -2,12 +2,49 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **11.05.2015 godz. 20:00 (Poniedziałek)** 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **14.05.2015 godz. 20:00 (Czwartek)** 
 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-* 02.05.2015 [Rafal] Pomysł na zebranie wyników w postaci maili ze zdjeciami wysłanymi z smartfonów w przypadku problemu z infrastrukturą bądz brakiem czasu na pełną implementacje 
+ 
 * 10.05.2015 [Mariusz] Przedyskutowanie metody przekazania zdjęcia protokołu do API - zgodność z REST. Propozcja: HTTP/POST, multipart/form-data: - zdjęcie + pkwId i username.
+
+##11.05.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 70 min.  
+Obecni: MichałU, Kamil, Piotr, Mariusz,Lukasz,Michal_K,Przemek, Mateusz_P, Mateusz_A, Radek, Wojtek 
+
+Odpowiedzialny za protokól: Rafal
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
+
+* 08.05-2015-18 [Marzena] [Pending] Strona  mobile www
+* 08.05-2015-19 [All] [Pending] Wrzucić do przekazanego linku Google Drive - Nasze Zdjęcia Buziek
+* 30.04.2015-16 [Slawek] [Pending] Texty do filmiku instrukcji
+* 11.05.2015-20[Rafal] Konta GooglePlay oraz WindowsMarket
+ 
+
+**ToDo zrobione:** 
+* 08.05-2015-20 [All,Rafał] [Done] Wysatwić taski OPM-U21, OPM-U-24,  OPM-U-28, OPM-U-29,OPM-U-30, OPM-U-31 w User Stories. Wszystkich developerów uprasza sie o załozenie tasków na twoich tablicach trello
+* 14.04.2015-2 [Rafał] [Done] Aktualizacja Paper Browser - Zaproponować ostateczne zmiany i innowacje
+* 27.04.2015-15 [Rafał] [Done] Rozpocząc przygotowtwanie do osadzenia systemu na serwerach i srodowiskach testowych i produkcyjnych
+
+**Dyskusja**
+
+W trakcie dyskusji ustalilismy:
+
+* Jest mało prawdopodobne ze zdąrzymy z aplikcja iOs, gdyż proces wystawiania jej do sklepu iTunes trawa do 14 dni. Istnieje taka szansa gdy skorzytsamy z konta Enterprise 
+* Ustalismy, iż dla wygody użytkowków przy wpisywaniu Teryt powstanie pattern w PaperBrowser nr4.  Pattern ten zastosowany będzie do wpisania kodu terytorialnego oraz obwodu gminy  przykład xxxxxx-xxxx. Plik ok 30 tyś komisji okregowych zostanie "zaszyty" w aplikacji
+* Ustaliliśmy kalendzarz i harmonogram oddania aplikacji. Kalendarz został ogłoszony na chat skype OpenPkW Mobile
+* Mateusz_W  ma zając sie przygotowaniem API do odbierania zdjęc i przygotowaniem serwera w postaci DB 
+* Piotr_T porozmawia z Adamek_K o dostosowaniu API 
+* Ustalilismy w wyniku dyskusji, iż dzielimy przepływ danych na dwa serwery w modelu rozporszonym.Dane liczbowe --> OPW, Zdjęcia -->Open-PKW
+* Rafał ma zając się zorganizowaniem kont  do wystawienia aplikacji
+
+
+
+
 
 ##08.05.2015 20:00
 Format: Telekonferencja / Skype  
