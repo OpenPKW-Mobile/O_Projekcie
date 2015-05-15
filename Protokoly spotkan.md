@@ -2,7 +2,7 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **14.05.2015 godz. 20:00 (Poniedziałek)** 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **18.05.2015 godz. 20:00 (Poniedziałek)** 
 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
@@ -31,9 +31,9 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 **Dyskusja**
 
 W trakcie dyskusji ustalilismy:
-* Detale i szczegóły API potrzebne do profesionalnego przekazywania danych do OPW
+* Detale i szczegóły API potrzebne do profesionalnego przekazywania danych do OPW w postaci REST
 * Adam zobowiązał sie, iż postara sie przekazać gotowe API do 15.05.15 godz 20
-* Ustalilismy schemat przekazywania kodu teryt na xxxxxx-zyyy gdzie xxxxxx i zyyy są dwoma stringami. Ponadto z w postaci cyfry 0 - bedzie wycięte przed przekazaniem 
+* Ustalilismy schemat przekazywania kodu teryt na xxxxxx-vyyy gdzie xxxxxx i vyyy są dwoma stringami. Ponadto z "v" i jesli sie pojawi na pocztku drugiego stringa cyfra 0 - bedzie wycięta przed przekazaniem do OPW 
 
 ##11.05.2015 20:00
 Format: Telekonferencja / Skype  
