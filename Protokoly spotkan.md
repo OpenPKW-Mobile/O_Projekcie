@@ -2,12 +2,38 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **14.05.2015 godz. 20:00 (Czwartek)** 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **14.05.2015 godz. 20:00 (Poniedziałek)** 
 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
  
 * 10.05.2015 [Mariusz] Przedyskutowanie metody przekazania zdjęcia protokołu do API - zgodność z REST. Propozcja: HTTP/POST, multipart/form-data: - zdjęcie + pkwId i username.
+
+
+##14.05.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 30 min.  
+Obecni: Przemek, Kamil, Michał_U, Michał_K, Piotr, Adam_K, Wojtek, Rafał
+
+Odpowiedzialny za protokól: Rafal
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
+
+* 08.05-2015-18 [Marzena] [Pending] Strona  mobile www
+* 08.05-2015-19 [All] [Pending] Wrzucić do przekazanego linku Google Drive - Nasze Zdjęcia Buziek
+* 30.04.2015-16 [Slawek] [Pending] Texty do filmiku instrukcji
+
+
+**ToDo zrobione:**
+* 11.05.2015-20[Rafal] Konta Developerskie GooglePlay
+
+**Dyskusja**
+
+W trakcie dyskusji ustalilismy:
+* Detale i szczegóły API potrzebne do profesionalnego przekazywania danych do OPW
+* Adam zobowiązał sie, iż postara sie przekazać gotowe API do 15.05.15 godz 20
+* Ustalilismy schemat przekazywania kodu teryt na xxxxxx-zyyy gdzie xxxxxx i zyyy są dwoma stringami. Ponadto z w postaci cyfry 0 - bedzie wycięte przed przekazaniem 
 
 ##11.05.2015 20:00
 Format: Telekonferencja / Skype  
@@ -25,7 +51,7 @@ Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **d
 * 11.05.2015-20[Rafal] Konta GooglePlay oraz WindowsMarket
  
 
-**ToDo zrobione:** 
+ 
 * 08.05-2015-20 [All,Rafał] [Done] Wysatwić taski OPM-U21, OPM-U-24,  OPM-U-28, OPM-U-29,OPM-U-30, OPM-U-31 w User Stories. Wszystkich developerów uprasza sie o załozenie tasków na twoich tablicach trello
 * 14.04.2015-2 [Rafał] [Done] Aktualizacja Paper Browser - Zaproponować ostateczne zmiany i innowacje
 * 27.04.2015-15 [Rafał] [Done] Rozpocząc przygotowtwanie do osadzenia systemu na serwerach i srodowiskach testowych i produkcyjnych
