@@ -2,13 +2,36 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **18.05.2015 godz. 20:00 (Poniedziałek)** 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **21.05.2015 godz. 20:00 (Czwartek)** 
 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
- 
-* 10.05.2015 [Mariusz] Przedyskutowanie metody przekazania zdjęcia protokołu do API - zgodność z REST. Propozcja: HTTP/POST, multipart/form-data: - zdjęcie + pkwId i username.
+* 20.05.2015 [Rafał] Czy i kiedy nastąpi merge Wersji Beta ?
+* 20.05.2015 [Rafał] Testy 21.05.15 ?
 
+
+##18.05.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 30 min.  
+Obecni: Przemek, Kamil, Michał_U, Michał_K, Piotr, Adam_K, Wojtek, Rafał
+
+Odpowiedzialny za protokól: Rafal
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
+
+* 08.05-2015-18 [Marzena] [Pending] Strona  mobile www
+* 30.04.2015-16 [Slawek] [Pending] Texty do filmiku instrukcji
+
+
+**ToDo zrobione:**
+* 10.05.2015 [Mariusz] [Done] Przedyskutowanie metody przekazania zdjęcia protokołu do API - zgodność z REST. Propozcja: HTTP/POST, multipart/form-data: - zdjęcie + pkwId i username.
+
+**Dyskusja**
+
+W trakcie dyskusji ustalilismy:
+* Adam_K przekazał info o nowej funkcjonalnosci - linkach do zdjęc protokołów.
+* Rozmawialismy o poprawie API do samych zdjęc i zapisu w postaci Teryt+Obwód_nr.jpg
 
 ##14.05.2015 20:00
 Format: Telekonferencja / Skype  
