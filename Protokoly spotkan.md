@@ -2,12 +2,38 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **21.05.2015 godz. 20:00 (Czwartek)** 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **08.06.2015 godz. 20:00 (PONIEDZIAŁEK)** 
 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
-* 20.05.2015 [Rafał] Czy i kiedy nastąpi merge Wersji Beta ?
-* 20.05.2015 [Rafał] Testy 21.05.15 ?
+* 01.06.2015 [Rafał] Plany na przyszłość.
+
+##01.06.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 30 min.  
+Obecni: Przemysław, Michał, Wojtek, Radek, Rafał
+
+Odpowiedzialny za protokól: Rafal
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
+
+
+* 01.06.2015 [Rafał] Migracja Projektu Mobilnego do głównego REPO OpenPKW
+
+**ToDo zrobione:**
+* 08.05-2015-18 [Marzena] [Done] Strona  mobile www
+* 30.04.2015-16 [Slawek] [OnHold] Texty do filmiku instrukcji
+
+**Dyskusja**
+
+W trakcie dyskusji ustalilismy:
+
+* Od następnego tygodnia tj. 08.06.2015 zaczniemy prace nad przygotowywaniem sie do referendum JOW oraz do wyborów parlamentarnych
+* Przygotowywanie się ma polegać na przebudowaniu aplikacji na JOW a także przeprowadzeniu Refactor Kodu. Ponad to postanowilismy wprowadzić bardziej modułową architekturę aplikacji mobilnej tak aby docelowo można było wykorzystywać zbudowaną aplikacje na dowolne wybory i referenda obywatelskie/państwowe
+* Przemysław zaproponował nagrywanie naszych konferencji na Skype i umieszczenie ich offlinowo na stronie www - tak aby nieobecni mógli odtwarzać przebieg dyskusji
+* Pomysł został zaakceptowany a także przeprowadzilismy test nagrywania (5 min rozmowy). Obecnie trwają prace znalezieniem rozwiązania ds nagrywania do ok 2h - dla całej telco
+* Został poruszony temat BackEnd i fizycznej maszyny na niego. W tym celu czekamy na dyskusje i dalsze kroki Tomasza Woźniaka i/oraz Adama Kowalewskiego  
 
 
 ##18.05.2015 20:00
