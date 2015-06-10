@@ -2,11 +2,43 @@
 
 ## Agenda na najblższe spotkanie 
 
-Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **08.06.2015 godz. 20:00 (PONIEDZIAŁEK)** 
+Zbieramy tematy na najbliższą telekonferencje dla zespołu OpenPKW Mobile tj: **15.06.2015 godz. 20:00 (PONIEDZIAŁEK)** 
 
 Będę wdzięczny za akceptację schematu data, [autor],[status],[treść]* 
 
 * 01.06.2015 [Rafał] Plany na przyszłość.
+
+
+##08.06.2015 20:00
+Format: Telekonferencja / Skype  
+Czas: 90 min.  
+Obecni: Lukasz,Wojtek, Bartek, Przemek, Kamil,  Rafał
+
+## Aktualna lista ToDo: 
+Aktuala lista ToDo zawiera wszystkie aktualnie otwarte pozycje. Nazewnictwo: **data-nr: [odpowiedzialny] [status ], [opis]**.
+
+
+* 01.06.2015 [Rafał] [Pending] Migracja Projektu Mobilnego do głównego REPO OpenPKW
+* 08.06.2015 [Rafal, Tomek W] [New] Maszyny pod BackEnd
+* 08.06.2015 [Rafał] [Pending] Nagrywanie Skype 
+
+**Dyskusja**
+
+W trakcie dyskusji ustalilismy:
+
+* Został zaproponowany rozkład pracy 25/75 - Jow/ Wybory Parlamentarne
+* Czekamy czy referendum JOW w ogole  się obędzie a jesli tak to kiedy?
+* Aplikacja na JOW powstanie na kanwie tego co udało sie zbudować do tej pory + refactoring codu i małe przeróbki jesli będą potrzebne
+* Ustalilismy, że ma powstać RouteMapa działań przybliżająca nas do sukcesu. Wstępna RouteMap i jej kroki powinna wyglądac tak: 
+ * Dokonczenie tasków iOs na JOW - 1.07
+ * Dokonczenie tasków WindowsPhone na JOW -  1.07
+ * Przebudowa Android Apps -  1.07
+ * Otrzymanie Nowych kontaktów na Dev Ops do pracy nad BackEnd 19.06
+ * Przygotowanie nowej niezaleznej maszyny do srodowiska produkcyjnego 1.07
+ * Przystosowanie Dobromira jako maszyny DEV z CI i Jenkins 19.06
+ * Rozpoczecie pracy nad BackEnd - Architektura 15.06
+ *  Start Implementacji zaproponwanego rozwiazania 15.07
+
 
 ##01.06.2015 20:00
 Format: Telekonferencja / Skype  
