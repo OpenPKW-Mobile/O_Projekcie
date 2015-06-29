@@ -17,5 +17,5 @@ Do modelowania wykorzystujemy aplikacje [draw.io](http://draw.io) która działa
 * Plik sie otwiera
 
 ## Linki do diagramów
-* [Paper Browser](https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenPKW-Mobile%2FO_Projekcie%2Fmaster%2FPaper%2520Browser%2FPaperBrowser_12_05_15.xml)
+* [Paper Browser](https://www.draw.io/?url=https%3A%2F%2Fraw.githubusercontent.com%2FOpenPKW-Mobile%2FO_Projekcie%2Fmaster%2FPaper%2520Browser%2FPaperBrowser_18_06_15.xml)
 
