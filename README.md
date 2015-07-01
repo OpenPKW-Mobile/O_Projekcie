@@ -1,3 +1,9 @@
+##Projekt przeniesiony tu:
+https://github.com/openpkw/mobile/README.md
+## REPO Closed 01.07.2015
+
+
+
 # OpenPKW Mobile
 
 OpenPKW Mobile  w skrócie OPM, to oprogramowanie typu Service Oriented Architecture (SOA) przeznaczone  m.in. na telefony komórkowe w postaci aplikacji mobilnych dla systemów Android, iOS oraz  Windows Phone. Podstawowym celem OPM jest niezależna i obiektywna weryfikacja wyników Wyborów za pomocą aplikacji mobilnych. Aplikacje te, przeznaczone są dla ok 27816 ochotników będących mężami zaufania w obwodowych komisjach wyborczych. Użytkownicy Ci, mają za zadanie za pomocą aplikacji mobilnych przesłać dane z protokołow wyborczych wraz ze zdjeciami tychże protokołów, które udostępnione są publicznie w komisjach obwodowych na koniec dnia wyborczego. Zważywszy na fakt, iż obecnie aplikacja w fazie projektowania i implementacji nie spełnia przyjętych kryteriów OpenPKW
